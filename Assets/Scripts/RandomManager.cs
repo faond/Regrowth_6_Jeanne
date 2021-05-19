@@ -26,16 +26,14 @@ public class RandomManager : MonoBehaviour
     }
 
     public int Uniform(int min, int max){
-        int u = Random.Range(min, max + 1);
+        var rand = new System.Random(); 
+        int u = rand.Next(min, max + 1);
         return u;
     }
 
-    public float Uniform(float min, float max){
-        return Random.Range(min, max);
-    }
-
-    public int Bernoulli(float p){       
-        float u = Random.Range(0.0f,1.0f);
+    public int Bernoulli(float p){  
+        var rand = new System.Random();      
+        float u = (float)rand.NextDouble();
         if (u <= p) return 1; // P( X = 1 ) = p
         return 0; // P( X = 0 ) = 1 - p
     }
@@ -53,8 +51,8 @@ public class RandomManager : MonoBehaviour
     //     int k = 0;
     //     float p = 1;
     //     float u;
-    //     while (p > exp(-lambda)) {
-    //         u = Uniform(0.f, 1.f)
+    //     while (p > Exp(-lambda)) {
+    //         u = Uniform(0.0f, 1.0f)
     //         p = p * u;
     //         k ++;
     //     }
@@ -63,7 +61,8 @@ public class RandomManager : MonoBehaviour
 
     public int Geometric(float p){
         int count = 0;
-        while(Bernoulli(p) != 1) count ++;
+        while(Bernoulli(p) != 1){count ++;}
+        Debug.Log("GEOMETRIC : " + count);
         return count;
     }
 }

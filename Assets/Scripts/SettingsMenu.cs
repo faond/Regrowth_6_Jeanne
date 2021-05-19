@@ -50,7 +50,7 @@ public class SettingsMenu : MonoBehaviour
         resolutionDropdown.AddOptions(options);
         resolutionDropdown.value = currentResolutionIndex;
         resolutionDropdown.RefreshShownValue();
-
+        difficultySlider.value = RandomManager.instance.difficulty;
         Screen.fullScreen = true;
     }
 
@@ -67,7 +67,7 @@ public class SettingsMenu : MonoBehaviour
     public void SetDifficulty(float difficulty)
     {
         difficultySlider.value = difficulty;
-        RandomManager.instance.difficulty = difficulty/100;
+        RandomManager.instance.difficulty = difficulty;
     }
     
 
