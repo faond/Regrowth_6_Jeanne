@@ -24,7 +24,7 @@ public class LifePopping : MonoBehaviour
     void Update()
     {
         if(RandomManager.instance.lifeMustPop && positions.Count > 0){
-            int randIndex = Random.Range(0,positions.Count);
+            int randIndex = RandomManager.instance.Uniform(0,positions.Count);
             Instantiate(lifeBulb, new Vector3(positions[randIndex].x,positions[randIndex].y,0), new Quaternion(0,0,0,0));
             RandomManager.instance.lifeMustPop = false;
             positions.RemoveAt(randIndex);

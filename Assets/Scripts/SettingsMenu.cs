@@ -67,6 +67,7 @@ public class SettingsMenu : MonoBehaviour
     public void SetDifficulty(float difficulty)
     {
         difficultySlider.value = difficulty;
+        RandomManager.instance.difficulty = difficulty/100;
     }
     
 

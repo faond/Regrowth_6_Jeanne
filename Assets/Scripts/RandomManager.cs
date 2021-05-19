@@ -6,9 +6,10 @@ using UnityEngine.UI;
 public class RandomManager : MonoBehaviour
 {
     public static RandomManager instance { get; private set; }
-    public Slider difficulty;
+    // public Slider difficulty;
     public bool lifeMustPop = false;
-
+    public float difficulty = 0;
+    public float nbWiltCases; 
 
 
     private void Awake()
@@ -20,9 +21,8 @@ public class RandomManager : MonoBehaviour
         instance = this;
     }
 
-    public bool RandomTrueOrFalse(){
-        int rand = Random.Range(0,2);
-        return rand == 1;
+    public bool RandomTrueOrFalse(float p){
+        return (Bernoulli(p) == 1);
     }
 
     public int Uniform(int min, int max){
@@ -34,8 +34,8 @@ public class RandomManager : MonoBehaviour
     }
 
     public int Bernoulli(float p){
-        //float u = difficulty.value;
-        float u = Random.Range(0,1);
+       
+        float u = Random.Range(0.0f,1.0f);
         if (u <= p) return 1; // P( X = 1 ) = p
         return 0; // P( X = 0 ) = 1 - p
     }
