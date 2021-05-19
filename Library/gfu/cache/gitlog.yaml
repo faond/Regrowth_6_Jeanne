@@ -1,0 +1,2013 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-05-19T11:26:26.864+02:00
+  initializedAtString: 2021-05-19T10:42:09.600+02:00
+  log:
+  - commitID: c0586a5d15453293416dba2f5a36a54c19a8bdc5
+    mergeA: 
+    mergeB: 
+    authorName: Fanny
+    authorEmail: fannyjoseph@gmail.com
+    commitEmail: fannyjoseph@gmail.com
+    commitName: Fanny
+    summary: Echelles et timer
+    description: 
+    timeString: 2021-05-19T11:25:48.000+02:00
+    commitTimeString: 2021-05-19T11:25:48.000+02:00
+    changes:
+    - path: Assets/Prefabs/CaseSolo.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseSolo.prefab
+      projectPath: Assets/Prefabs/CaseSolo.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderBottom.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderBottom.prefab
+      projectPath: Assets/Prefabs/LadderBottom.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LaddersMiddle.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LaddersMiddle.prefab
+      projectPath: Assets/Prefabs/LaddersMiddle.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LaddersTop.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LaddersTop.prefab
+      projectPath: Assets/Prefabs/LaddersTop.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/LadderTransform.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LadderTransform.cs
+      projectPath: Assets/Scripts/LadderTransform.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/LadderTransform.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LadderTransform.cs.meta
+      projectPath: Assets/Scripts/LadderTransform.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/Transformation.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Transformation.cs
+      projectPath: Assets/Scripts/Transformation.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1b162d8da83f6086c874b3940d963bf42aaa7791
+    mergeA: 
+    mergeB: 
+    authorName: Fanny
+    authorEmail: fannyjoseph@gmail.com
+    commitEmail: fannyjoseph@gmail.com
+    commitName: Fanny
+    summary: Timer, case et difficulty
+    description: 
+    timeString: 2021-05-19T02:26:56.000+02:00
+    commitTimeString: 2021-05-19T02:26:56.000+02:00
+    changes:
+    - path: Assets/Prefabs/CaseParent.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseParent.prefab
+      projectPath: Assets/Prefabs/CaseParent.prefab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CaseParent.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseParent.prefab.meta
+      projectPath: Assets/Prefabs/CaseParent.prefab.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CaseSolo.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseSolo.prefab
+      projectPath: Assets/Prefabs/CaseSolo.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Shrub.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Shrub.prefab
+      projectPath: Assets/Prefabs/Shrub.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Trees.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Trees.prefab
+      projectPath: Assets/Prefabs/Trees.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/GetTransformed.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/GetTransformed.cs
+      projectPath: Assets/Scripts/GetTransformed.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/GetTransformed.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/GetTransformed.cs.meta
+      projectPath: Assets/Scripts/GetTransformed.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/RandomManager.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/RandomManager.cs
+      projectPath: Assets/Scripts/RandomManager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/SettingsMenu.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/SettingsMenu.cs
+      projectPath: Assets/Scripts/SettingsMenu.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/Transformation.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Transformation.cs
+      projectPath: Assets/Scripts/Transformation.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/Transformation.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Transformation.cs.meta
+      projectPath: Assets/Scripts/Transformation.cs.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scripts/TransformationParent.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/TransformationParent.cs
+      projectPath: Assets/Scripts/TransformationParent.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets/Scripts/TransformationParent.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/TransformationParent.cs.meta
+      projectPath: Assets/Scripts/TransformationParent.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8a0f4cd756c5f0d907148261defaa7a6b8c2803c
+    mergeA: 
+    mergeB: 
+    authorName: Fanny
+    authorEmail: fannyjoseph@gmail.com
+    commitEmail: fannyjoseph@gmail.com
+    commitName: Fanny
+    summary: Init
+    description: 
+    timeString: 2021-05-19T00:14:49.000+02:00
+    commitTimeString: 2021-05-19T00:14:49.000+02:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.DS_Store
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/.DS_Store
+      projectPath: Assets/.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations.meta
+      projectPath: Assets/Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases.meta
+      projectPath: Assets/Animations/Cases.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases/Bloom.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases/Bloom.anim
+      projectPath: Assets/Animations/Cases/Bloom.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases/Bloom.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases/Bloom.anim.meta
+      projectPath: Assets/Animations/Cases/Bloom.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases/Case.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases/Case.controller
+      projectPath: Assets/Animations/Cases/Case.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases/Case.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases/Case.controller.meta
+      projectPath: Assets/Animations/Cases/Case.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases/Wilt.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases/Wilt.anim
+      projectPath: Assets/Animations/Cases/Wilt.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Cases/Wilt.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Cases/Wilt.anim.meta
+      projectPath: Assets/Animations/Cases/Wilt.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem.meta
+      projectPath: Assets/Animations/FadeSystem.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem/FadeIn.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem/FadeIn.anim
+      projectPath: Assets/Animations/FadeSystem/FadeIn.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem/FadeIn.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem/FadeIn.anim.meta
+      projectPath: Assets/Animations/FadeSystem/FadeIn.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem/FadeOut.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem/FadeOut.anim
+      projectPath: Assets/Animations/FadeSystem/FadeOut.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem/FadeOut.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem/FadeOut.anim.meta
+      projectPath: Assets/Animations/FadeSystem/FadeOut.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem/FadeSystem.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem/FadeSystem.controller
+      projectPath: Assets/Animations/FadeSystem/FadeSystem.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/FadeSystem/FadeSystem.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/FadeSystem/FadeSystem.controller.meta
+      projectPath: Assets/Animations/FadeSystem/FadeSystem.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders.meta
+      projectPath: Assets/Animations/Ladders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderBottom.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderBottom.controller
+      projectPath: Assets/Animations/Ladders/LadderBottom.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderBottom.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderBottom.controller.meta
+      projectPath: Assets/Animations/Ladders/LadderBottom.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderBottomBloom.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderBottomBloom.anim
+      projectPath: Assets/Animations/Ladders/LadderBottomBloom.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderBottomBloom.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderBottomBloom.anim.meta
+      projectPath: Assets/Animations/Ladders/LadderBottomBloom.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderBottomWilt.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderBottomWilt.anim
+      projectPath: Assets/Animations/Ladders/LadderBottomWilt.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderBottomWilt.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderBottomWilt.anim.meta
+      projectPath: Assets/Animations/Ladders/LadderBottomWilt.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderMiddleBloom.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderMiddleBloom.anim
+      projectPath: Assets/Animations/Ladders/LadderMiddleBloom.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderMiddleBloom.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderMiddleBloom.anim.meta
+      projectPath: Assets/Animations/Ladders/LadderMiddleBloom.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderMiddleWilt.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderMiddleWilt.anim
+      projectPath: Assets/Animations/Ladders/LadderMiddleWilt.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderMiddleWilt.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderMiddleWilt.anim.meta
+      projectPath: Assets/Animations/Ladders/LadderMiddleWilt.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderTopBloom.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderTopBloom.anim
+      projectPath: Assets/Animations/Ladders/LadderTopBloom.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderTopBloom.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderTopBloom.anim.meta
+      projectPath: Assets/Animations/Ladders/LadderTopBloom.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderTopWilt.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderTopWilt.anim
+      projectPath: Assets/Animations/Ladders/LadderTopWilt.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LadderTopWilt.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LadderTopWilt.anim.meta
+      projectPath: Assets/Animations/Ladders/LadderTopWilt.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LaddersMiddle.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LaddersMiddle.controller
+      projectPath: Assets/Animations/Ladders/LaddersMiddle.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LaddersMiddle.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LaddersMiddle.controller.meta
+      projectPath: Assets/Animations/Ladders/LaddersMiddle.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LaddersTop.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LaddersTop.controller
+      projectPath: Assets/Animations/Ladders/LaddersTop.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Ladders/LaddersTop.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Ladders/LaddersTop.controller.meta
+      projectPath: Assets/Animations/Ladders/LaddersTop.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Mushroom.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Mushroom.meta
+      projectPath: Assets/Animations/Mushroom.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Mushroom/MushroomWalk.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Mushroom/MushroomWalk.anim
+      projectPath: Assets/Animations/Mushroom/MushroomWalk.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Mushroom/MushroomWalk.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Mushroom/MushroomWalk.anim.meta
+      projectPath: Assets/Animations/Mushroom/MushroomWalk.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Mushroom/mushroom.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Mushroom/mushroom.controller
+      projectPath: Assets/Animations/Mushroom/mushroom.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Mushroom/mushroom.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Mushroom/mushroom.controller.meta
+      projectPath: Assets/Animations/Mushroom/mushroom.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects.meta
+      projectPath: Assets/Animations/Objects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/Fondation.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/Fondation.controller
+      projectPath: Assets/Animations/Objects/Fondation.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/Fondation.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/Fondation.controller.meta
+      projectPath: Assets/Animations/Objects/Fondation.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/HealPowerUp.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/HealPowerUp.anim
+      projectPath: Assets/Animations/Objects/HealPowerUp.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/HealPowerUp.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/HealPowerUp.anim.meta
+      projectPath: Assets/Animations/Objects/HealPowerUp.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/HealPowerUp.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/HealPowerUp.controller
+      projectPath: Assets/Animations/Objects/HealPowerUp.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/HealPowerUp.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/HealPowerUp.controller.meta
+      projectPath: Assets/Animations/Objects/HealPowerUp.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/LeafTurn.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/LeafTurn.anim
+      projectPath: Assets/Animations/Objects/LeafTurn.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/LeafTurn.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/LeafTurn.anim.meta
+      projectPath: Assets/Animations/Objects/LeafTurn.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/Shrub.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/Shrub.controller
+      projectPath: Assets/Animations/Objects/Shrub.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/Shrub.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/Shrub.controller.meta
+      projectPath: Assets/Animations/Objects/Shrub.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/ShrubBloom.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/ShrubBloom.anim
+      projectPath: Assets/Animations/Objects/ShrubBloom.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/ShrubBloom.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/ShrubBloom.anim.meta
+      projectPath: Assets/Animations/Objects/ShrubBloom.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/ShrubWilt.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/ShrubWilt.anim
+      projectPath: Assets/Animations/Objects/ShrubWilt.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/ShrubWilt.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/ShrubWilt.anim.meta
+      projectPath: Assets/Animations/Objects/ShrubWilt.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/TreeBloom.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/TreeBloom.anim
+      projectPath: Assets/Animations/Objects/TreeBloom.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/TreeBloom.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/TreeBloom.anim.meta
+      projectPath: Assets/Animations/Objects/TreeBloom.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/TreeWilt.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/TreeWilt.anim
+      projectPath: Assets/Animations/Objects/TreeWilt.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/TreeWilt.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/TreeWilt.anim.meta
+      projectPath: Assets/Animations/Objects/TreeWilt.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/Trees.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/Trees.controller
+      projectPath: Assets/Animations/Objects/Trees.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/Trees.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/Trees.controller.meta
+      projectPath: Assets/Animations/Objects/Trees.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/leaf_turn_0.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/leaf_turn_0.controller
+      projectPath: Assets/Animations/Objects/leaf_turn_0.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Objects/leaf_turn_0.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Objects/leaf_turn_0.controller.meta
+      projectPath: Assets/Animations/Objects/leaf_turn_0.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player.meta
+      projectPath: Assets/Animations/Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/Player.controller
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/Player.controller
+      projectPath: Assets/Animations/Player/Player.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/Player.controller.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/Player.controller.meta
+      projectPath: Assets/Animations/Player/Player.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerClimb.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerClimb.anim
+      projectPath: Assets/Animations/Player/PlayerClimb.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerClimb.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerClimb.anim.meta
+      projectPath: Assets/Animations/Player/PlayerClimb.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerDie.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerDie.anim
+      projectPath: Assets/Animations/Player/PlayerDie.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerDie.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerDie.anim.meta
+      projectPath: Assets/Animations/Player/PlayerDie.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerIdle.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerIdle.anim
+      projectPath: Assets/Animations/Player/PlayerIdle.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerIdle.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerIdle.anim.meta
+      projectPath: Assets/Animations/Player/PlayerIdle.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerRun.anim
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerRun.anim
+      projectPath: Assets/Animations/Player/PlayerRun.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Animations/Player/PlayerRun.anim.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Animations/Player/PlayerRun.anim.meta
+      projectPath: Assets/Animations/Player/PlayerRun.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio.meta
+      projectPath: Assets/Audio.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/.DS_Store
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/.DS_Store
+      projectPath: Assets/Audio/.DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Ambiance.mp3
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Ambiance.mp3
+      projectPath: Assets/Audio/Ambiance.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Ambiance.mp3.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Ambiance.mp3.meta
+      projectPath: Assets/Audio/Ambiance.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/MainMixer.mixer
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/MainMixer.mixer
+      projectPath: Assets/Audio/MainMixer.mixer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/MainMixer.mixer.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/MainMixer.mixer.meta
+      projectPath: Assets/Audio/MainMixer.mixer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects.meta
+      projectPath: Assets/Audio/Sound Effects.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Button.mp3
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Button.mp3
+      projectPath: Assets/Audio/Sound Effects/Button.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Button.mp3.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Button.mp3.meta
+      projectPath: Assets/Audio/Sound Effects/Button.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Ennemy_dead.mp3
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Ennemy_dead.mp3
+      projectPath: Assets/Audio/Sound Effects/Ennemy_dead.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Ennemy_dead.mp3.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Ennemy_dead.mp3.meta
+      projectPath: Assets/Audio/Sound Effects/Ennemy_dead.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Falling.wav
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Falling.wav
+      projectPath: Assets/Audio/Sound Effects/Falling.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Falling.wav.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Falling.wav.meta
+      projectPath: Assets/Audio/Sound Effects/Falling.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/HealUp.mp3
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/HealUp.mp3
+      projectPath: Assets/Audio/Sound Effects/HealUp.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/HealUp.mp3.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/HealUp.mp3.meta
+      projectPath: Assets/Audio/Sound Effects/HealUp.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Hit_ennemy.mp3
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Hit_ennemy.mp3
+      projectPath: Assets/Audio/Sound Effects/Hit_ennemy.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Hit_ennemy.mp3.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Hit_ennemy.mp3.meta
+      projectPath: Assets/Audio/Sound Effects/Hit_ennemy.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Leaf.mp3
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Leaf.mp3
+      projectPath: Assets/Audio/Sound Effects/Leaf.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Leaf.mp3.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Leaf.mp3.meta
+      projectPath: Assets/Audio/Sound Effects/Leaf.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Winning.wav
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Winning.wav
+      projectPath: Assets/Audio/Sound Effects/Winning.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Audio/Sound Effects/Winning.wav.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Audio/Sound
+        Effects/Winning.wav.meta
+      projectPath: Assets/Audio/Sound Effects/Winning.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Fonts.meta
+      projectPath: Assets/Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/pixelated.ttf
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Fonts/pixelated.ttf
+      projectPath: Assets/Fonts/pixelated.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Fonts/pixelated.ttf.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Fonts/pixelated.ttf.meta
+      projectPath: Assets/Fonts/pixelated.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports.meta
+      projectPath: Assets/Imports.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Cases.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Cases.png
+      projectPath: Assets/Imports/Cases.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Cases.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Cases.png.meta
+      projectPath: Assets/Imports/Cases.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/HealUp.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/HealUp.png
+      projectPath: Assets/Imports/HealUp.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/HealUp.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/HealUp.png.meta
+      projectPath: Assets/Imports/HealUp.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Ladders.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Ladders.png
+      projectPath: Assets/Imports/Ladders.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Ladders.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Ladders.png.meta
+      projectPath: Assets/Imports/Ladders.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Shrub.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Shrub.png
+      projectPath: Assets/Imports/Shrub.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Shrub.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Shrub.png.meta
+      projectPath: Assets/Imports/Shrub.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Trees.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Trees.png
+      projectPath: Assets/Imports/Trees.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/Trees.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/Trees.png.meta
+      projectPath: Assets/Imports/Trees.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/background.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/background.png
+      projectPath: Assets/Imports/background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/background.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/background.png.meta
+      projectPath: Assets/Imports/background.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/border.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/border.png
+      projectPath: Assets/Imports/border.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/border.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/border.png.meta
+      projectPath: Assets/Imports/border.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/leaf_coin.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/leaf_coin.png
+      projectPath: Assets/Imports/leaf_coin.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/leaf_coin.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/leaf_coin.png.meta
+      projectPath: Assets/Imports/leaf_coin.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/mushroom.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/mushroom.png
+      projectPath: Assets/Imports/mushroom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/mushroom.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/mushroom.png.meta
+      projectPath: Assets/Imports/mushroom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/seed_idle.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/seed_idle.png
+      projectPath: Assets/Imports/seed_idle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/seed_idle.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/seed_idle.png.meta
+      projectPath: Assets/Imports/seed_idle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/seed_walk.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/seed_walk.png
+      projectPath: Assets/Imports/seed_walk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Imports/seed_walk.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Imports/seed_walk.png.meta
+      projectPath: Assets/Imports/seed_walk.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Palettes.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Palettes.meta
+      projectPath: Assets/Palettes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Physics.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Physics.meta
+      projectPath: Assets/Physics.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Physics/NoFriction.physicsMaterial2D
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Physics/NoFriction.physicsMaterial2D
+      projectPath: Assets/Physics/NoFriction.physicsMaterial2D
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Physics/NoFriction.physicsMaterial2D.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Physics/NoFriction.physicsMaterial2D.meta
+      projectPath: Assets/Physics/NoFriction.physicsMaterial2D.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs.meta
+      projectPath: Assets/Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CaseParent.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseParent.prefab
+      projectPath: Assets/Prefabs/CaseParent.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CaseParent.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseParent.prefab.meta
+      projectPath: Assets/Prefabs/CaseParent.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CaseSolo.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseSolo.prefab
+      projectPath: Assets/Prefabs/CaseSolo.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CaseSolo.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CaseSolo.prefab.meta
+      projectPath: Assets/Prefabs/CaseSolo.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CurrentSceneManager.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CurrentSceneManager.prefab
+      projectPath: Assets/Prefabs/CurrentSceneManager.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/CurrentSceneManager.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/CurrentSceneManager.prefab.meta
+      projectPath: Assets/Prefabs/CurrentSceneManager.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/DeathZone.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/DeathZone.prefab
+      projectPath: Assets/Prefabs/DeathZone.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/DeathZone.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/DeathZone.prefab.meta
+      projectPath: Assets/Prefabs/DeathZone.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Enemy.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Enemy.prefab
+      projectPath: Assets/Prefabs/Enemy.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Enemy.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Enemy.prefab.meta
+      projectPath: Assets/Prefabs/Enemy.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/HealPowerUp.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/HealPowerUp.prefab
+      projectPath: Assets/Prefabs/HealPowerUp.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/HealPowerUp.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/HealPowerUp.prefab.meta
+      projectPath: Assets/Prefabs/HealPowerUp.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderBottom.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderBottom.prefab
+      projectPath: Assets/Prefabs/LadderBottom.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderBottom.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderBottom.prefab.meta
+      projectPath: Assets/Prefabs/LadderBottom.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderOnCube.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderOnCube.prefab
+      projectPath: Assets/Prefabs/LadderOnCube.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderOnCube.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderOnCube.prefab.meta
+      projectPath: Assets/Prefabs/LadderOnCube.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderSolo.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderSolo.prefab
+      projectPath: Assets/Prefabs/LadderSolo.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LadderSolo.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LadderSolo.prefab.meta
+      projectPath: Assets/Prefabs/LadderSolo.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LaddersMiddle.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LaddersMiddle.prefab
+      projectPath: Assets/Prefabs/LaddersMiddle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LaddersMiddle.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LaddersMiddle.prefab.meta
+      projectPath: Assets/Prefabs/LaddersMiddle.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LaddersTop.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LaddersTop.prefab
+      projectPath: Assets/Prefabs/LaddersTop.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/LaddersTop.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/LaddersTop.prefab.meta
+      projectPath: Assets/Prefabs/LaddersTop.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Leaf_coin.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Leaf_coin.prefab
+      projectPath: Assets/Prefabs/Leaf_coin.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Leaf_coin.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Leaf_coin.prefab.meta
+      projectPath: Assets/Prefabs/Leaf_coin.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Player.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Player.prefab
+      projectPath: Assets/Prefabs/Player.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Player.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Player.prefab.meta
+      projectPath: Assets/Prefabs/Player.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/PlayerSpawn.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/PlayerSpawn.prefab
+      projectPath: Assets/Prefabs/PlayerSpawn.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/PlayerSpawn.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/PlayerSpawn.prefab.meta
+      projectPath: Assets/Prefabs/PlayerSpawn.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/SettingsWindow.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/SettingsWindow.prefab
+      projectPath: Assets/Prefabs/SettingsWindow.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/SettingsWindow.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/SettingsWindow.prefab.meta
+      projectPath: Assets/Prefabs/SettingsWindow.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Shrub.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Shrub.prefab
+      projectPath: Assets/Prefabs/Shrub.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Shrub.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Shrub.prefab.meta
+      projectPath: Assets/Prefabs/Shrub.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Trees.prefab
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Trees.prefab
+      projectPath: Assets/Prefabs/Trees.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Prefabs/Trees.prefab.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Prefabs/Trees.prefab.meta
+      projectPath: Assets/Prefabs/Trees.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes.meta
+      projectPath: Assets/Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/MainMenu.unity
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes/MainMenu.unity
+      projectPath: Assets/Scenes/MainMenu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/MainMenu.unity.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes/MainMenu.unity.meta
+      projectPath: Assets/Scenes/MainMenu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scenes/SampleScene.unity.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scenes/SampleScene.unity.meta
+      projectPath: Assets/Scenes/SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/AudioManager.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/AudioManager.cs
+      projectPath: Assets/Scripts/AudioManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/AudioManager.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/AudioManager.cs.meta
+      projectPath: Assets/Scripts/AudioManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/CurrentSceneManager.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/CurrentSceneManager.cs
+      projectPath: Assets/Scripts/CurrentSceneManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/CurrentSceneManager.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/CurrentSceneManager.cs.meta
+      projectPath: Assets/Scripts/CurrentSceneManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/DeathZone.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/DeathZone.cs
+      projectPath: Assets/Scripts/DeathZone.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/DeathZone.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/DeathZone.cs.meta
+      projectPath: Assets/Scripts/DeathZone.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/DontDestroyOnLoadScene.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/DontDestroyOnLoadScene.cs
+      projectPath: Assets/Scripts/DontDestroyOnLoadScene.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/DontDestroyOnLoadScene.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/DontDestroyOnLoadScene.cs.meta
+      projectPath: Assets/Scripts/DontDestroyOnLoadScene.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/EnemyPatrol.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/EnemyPatrol.cs
+      projectPath: Assets/Scripts/EnemyPatrol.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/EnemyPatrol.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/EnemyPatrol.cs.meta
+      projectPath: Assets/Scripts/EnemyPatrol.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameOverManager.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/GameOverManager.cs
+      projectPath: Assets/Scripts/GameOverManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GameOverManager.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/GameOverManager.cs.meta
+      projectPath: Assets/Scripts/GameOverManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GetTransformed.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/GetTransformed.cs
+      projectPath: Assets/Scripts/GetTransformed.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/GetTransformed.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/GetTransformed.cs.meta
+      projectPath: Assets/Scripts/GetTransformed.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/HealPowerUp.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/HealPowerUp.cs
+      projectPath: Assets/Scripts/HealPowerUp.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/HealPowerUp.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/HealPowerUp.cs.meta
+      projectPath: Assets/Scripts/HealPowerUp.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/HealthBar.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/HealthBar.cs
+      projectPath: Assets/Scripts/HealthBar.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/HealthBar.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/HealthBar.cs.meta
+      projectPath: Assets/Scripts/HealthBar.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Inventory.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Inventory.cs
+      projectPath: Assets/Scripts/Inventory.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Inventory.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Inventory.cs.meta
+      projectPath: Assets/Scripts/Inventory.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Ladder.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Ladder.cs
+      projectPath: Assets/Scripts/Ladder.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Ladder.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Ladder.cs.meta
+      projectPath: Assets/Scripts/Ladder.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/LadderSolo.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LadderSolo.cs
+      projectPath: Assets/Scripts/LadderSolo.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/LadderSolo.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LadderSolo.cs.meta
+      projectPath: Assets/Scripts/LadderSolo.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/LadderTransform.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LadderTransform.cs
+      projectPath: Assets/Scripts/LadderTransform.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/LadderTransform.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LadderTransform.cs.meta
+      projectPath: Assets/Scripts/LadderTransform.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/LifePopping.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LifePopping.cs
+      projectPath: Assets/Scripts/LifePopping.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/LifePopping.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/LifePopping.cs.meta
+      projectPath: Assets/Scripts/LifePopping.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/MainMenu.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/MainMenu.cs
+      projectPath: Assets/Scripts/MainMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/MainMenu.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/MainMenu.cs.meta
+      projectPath: Assets/Scripts/MainMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PauseMenu.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PauseMenu.cs
+      projectPath: Assets/Scripts/PauseMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PauseMenu.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PauseMenu.cs.meta
+      projectPath: Assets/Scripts/PauseMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PickUpObject.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PickUpObject.cs
+      projectPath: Assets/Scripts/PickUpObject.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PickUpObject.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PickUpObject.cs.meta
+      projectPath: Assets/Scripts/PickUpObject.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerHealth.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PlayerHealth.cs
+      projectPath: Assets/Scripts/PlayerHealth.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerHealth.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PlayerHealth.cs.meta
+      projectPath: Assets/Scripts/PlayerHealth.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMovement.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PlayerMovement.cs
+      projectPath: Assets/Scripts/PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerMovement.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PlayerMovement.cs.meta
+      projectPath: Assets/Scripts/PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerSpawn.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PlayerSpawn.cs
+      projectPath: Assets/Scripts/PlayerSpawn.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/PlayerSpawn.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/PlayerSpawn.cs.meta
+      projectPath: Assets/Scripts/PlayerSpawn.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/RandomManager.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/RandomManager.cs
+      projectPath: Assets/Scripts/RandomManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/RandomManager.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/RandomManager.cs.meta
+      projectPath: Assets/Scripts/RandomManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/SettingsMenu.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/SettingsMenu.cs
+      projectPath: Assets/Scripts/SettingsMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/SettingsMenu.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/SettingsMenu.cs.meta
+      projectPath: Assets/Scripts/SettingsMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Transformation.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Transformation.cs
+      projectPath: Assets/Scripts/Transformation.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/Transformation.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/Transformation.cs.meta
+      projectPath: Assets/Scripts/Transformation.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/TransformationParent.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/TransformationParent.cs
+      projectPath: Assets/Scripts/TransformationParent.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/TransformationParent.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/TransformationParent.cs.meta
+      projectPath: Assets/Scripts/TransformationParent.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/TreeTransform.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/TreeTransform.cs
+      projectPath: Assets/Scripts/TreeTransform.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/TreeTransform.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/TreeTransform.cs.meta
+      projectPath: Assets/Scripts/TreeTransform.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WeekSpot.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/WeekSpot.cs
+      projectPath: Assets/Scripts/WeekSpot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WeekSpot.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/WeekSpot.cs.meta
+      projectPath: Assets/Scripts/WeekSpot.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WiltCount.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/WiltCount.cs
+      projectPath: Assets/Scripts/WiltCount.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WiltCount.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/WiltCount.cs.meta
+      projectPath: Assets/Scripts/WiltCount.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WinManager.cs
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/WinManager.cs
+      projectPath: Assets/Scripts/WinManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/Scripts/WinManager.cs.meta
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/Scripts/WinManager.cs.meta
+      projectPath: Assets/Scripts/WinManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Packages/manifest.json
+      projectPath: Packages/manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages/packages-lock.json
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Packages/packages-lock.json
+      projectPath: Packages/packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/ClusterInputManager.asset
+      projectPath: ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/NetworkManager.asset
+      projectPath: ProjectSettings/NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/PackageManagerSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/PackageManagerSettings.asset
+      projectPath: ProjectSettings/PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/PresetManager.asset
+      projectPath: ProjectSettings/PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/VFXManager.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/VFXManager.asset
+      projectPath: ProjectSettings/VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/XRSettings.asset
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/ProjectSettings/XRSettings.asset
+      projectPath: ProjectSettings/XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 97272c2f29f7e7ced98e1efbb65d60ed7eaa019b
+    mergeA: 
+    mergeB: 
+    authorName: Fanny
+    authorEmail: fannyjoseph@gmail.com
+    commitEmail: fannyjoseph@gmail.com
+    commitName: Fanny
+    summary: Initial commit
+    description: 
+    timeString: 2021-05-19T00:13:52.000+02:00
+    commitTimeString: 2021-05-19T00:13:52.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_5/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
