@@ -6,6 +6,7 @@ public class WiltCount : MonoBehaviour
 
     public GameObject[] objects;
     public static WiltCount instance ;
+    public GameObject cases; 
 
 
     private void Awake()

@@ -2800,6 +2800,7 @@ MonoBehaviour:
   - {fileID: 1767400619}
   - {fileID: 2085076823}
   - {fileID: 1294470150}
+  cases: {fileID: 0}
 --- !u!1001 &510978790
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3505,6 +3506,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lifeMustPop: 0
   difficulty: 0
+  nbWiltCases: 0
 --- !u!1001 &568005314
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6861,6 +6863,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1129275460}
   - component: {fileID: 1129275466}
+  - component: {fileID: 1129275461}
   m_Layer: 0
   m_Name: Fondation
   m_TagString: Untagged
@@ -6938,6 +6941,21 @@ Transform:
   m_Father: {fileID: 309195621}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1129275461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1129275459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad4aee14a60d5ff4bbb1fe7a7d68116c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects: []
+  cases: {fileID: 0}
+  nbWiltCases: 0
 --- !u!95 &1129275466
 Animator:
   serializedVersion: 3
@@ -12484,6 +12502,11 @@ PrefabInstance:
       propertyPath: healthBar
       value: 
       objectReference: {fileID: 297817939}
+    - target: {fileID: 6671082407921717080, guid: c077d3c0a7a0b43d9bbeb12702015610,
+        type: 3}
+      propertyPath: climbSpeed
+      value: 400
+      objectReference: {fileID: 0}
     - target: {fileID: 6671082407921717085, guid: c077d3c0a7a0b43d9bbeb12702015610,
         type: 3}
       propertyPath: m_Name

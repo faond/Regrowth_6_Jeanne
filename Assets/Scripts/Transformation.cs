@@ -50,7 +50,7 @@ public class Transformation : MonoBehaviour
           }
         }
         gameObject.tag = "Bloom";
-        if(RandomManager.instance.RandomTrueOrFalse(RandomManager.instance.difficulty)){
+        if(RandomManager.instance.Bernoulli(RandomManager.instance.difficulty) == 1 ){
           timer = 5;
           timerIsRunning = true;
         }

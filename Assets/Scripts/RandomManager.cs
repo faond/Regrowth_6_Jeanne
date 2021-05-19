@@ -26,15 +26,15 @@ public class RandomManager : MonoBehaviour
     }
 
     public int Uniform(int min, int max){
-        return Random.Range(min, max + 1);
+        int u = Random.Range(min, max + 1);
+        return u;
     }
 
     public float Uniform(float min, float max){
         return Random.Range(min, max);
     }
 
-    public int Bernoulli(float p){
-       
+    public int Bernoulli(float p){       
         float u = Random.Range(0.0f,1.0f);
         if (u <= p) return 1; // P( X = 1 ) = p
         return 0; // P( X = 0 ) = 1 - p
