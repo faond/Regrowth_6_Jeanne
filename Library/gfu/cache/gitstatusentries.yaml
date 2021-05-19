@@ -13,6 +13,3084 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-19T11:26:28.360+02:00
-  initializedAtString: 2021-05-19T10:38:50.918+02:00
-  entries: []
+  lastUpdatedAtString: 2021-05-19T12:24:17.073+02:00
+  initializedAtString: 2021-05-19T12:24:17.073+02:00
+  entries:
+  - path: Assets\Palettes.meta
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Palettes.meta
+    projectPath: Assets\Palettes.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\00445861afda59b0d491dd20d3d31440
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\00\00445861afda59b0d491dd20d3d31440
+    projectPath: Library\Artifacts\00\00445861afda59b0d491dd20d3d31440
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\00\007e7d2ed4d25acb1d581705dd5d1830
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\00\007e7d2ed4d25acb1d581705dd5d1830
+    projectPath: Library\Artifacts\00\007e7d2ed4d25acb1d581705dd5d1830
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\00\0095beeb7dac6e1b7fe726a9a80398e0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\00\0095beeb7dac6e1b7fe726a9a80398e0
+    projectPath: Library\Artifacts\00\0095beeb7dac6e1b7fe726a9a80398e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\01\015e35d95665484b56ba7f8890f91f89
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\01\015e35d95665484b56ba7f8890f91f89
+    projectPath: Library\Artifacts\01\015e35d95665484b56ba7f8890f91f89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\04\0407f05bb833d78a7b2c8147205d4068
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\04\0407f05bb833d78a7b2c8147205d4068
+    projectPath: Library\Artifacts\04\0407f05bb833d78a7b2c8147205d4068
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\04\04783d593a99d944c5c09ea171cf8e70
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\04\04783d593a99d944c5c09ea171cf8e70
+    projectPath: Library\Artifacts\04\04783d593a99d944c5c09ea171cf8e70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\04\0490052edc7f928168526fa7a2daa34e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\04\0490052edc7f928168526fa7a2daa34e
+    projectPath: Library\Artifacts\04\0490052edc7f928168526fa7a2daa34e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\052a4d4abfa06552682b2467a0030019
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\05\052a4d4abfa06552682b2467a0030019
+    projectPath: Library\Artifacts\05\052a4d4abfa06552682b2467a0030019
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\06\0625db45930ffa2008205ce634ff20cf
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\06\0625db45930ffa2008205ce634ff20cf
+    projectPath: Library\Artifacts\06\0625db45930ffa2008205ce634ff20cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\06\068a9bcf9b3cd5a1d32de09fbfff8d82
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\06\068a9bcf9b3cd5a1d32de09fbfff8d82
+    projectPath: Library\Artifacts\06\068a9bcf9b3cd5a1d32de09fbfff8d82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\06\06a65ac7a745b7cd82025d0d89e2f8e0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\06\06a65ac7a745b7cd82025d0d89e2f8e0
+    projectPath: Library\Artifacts\06\06a65ac7a745b7cd82025d0d89e2f8e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\0700546fcf3b3df30b5a869b68b6917b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\07\0700546fcf3b3df30b5a869b68b6917b
+    projectPath: Library\Artifacts\07\0700546fcf3b3df30b5a869b68b6917b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\072e42929197ecfdba7e44ba0f1edf1f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\07\072e42929197ecfdba7e44ba0f1edf1f
+    projectPath: Library\Artifacts\07\072e42929197ecfdba7e44ba0f1edf1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\07f03d9941e4c6fa3568e7e5c4c4d75d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\07\07f03d9941e4c6fa3568e7e5c4c4d75d
+    projectPath: Library\Artifacts\07\07f03d9941e4c6fa3568e7e5c4c4d75d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\09\091792ef86baf5449a6bca3ba3e93434
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\09\091792ef86baf5449a6bca3ba3e93434
+    projectPath: Library\Artifacts\09\091792ef86baf5449a6bca3ba3e93434
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\09532e6731233811e96b8a9706653f16
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\09\09532e6731233811e96b8a9706653f16
+    projectPath: Library\Artifacts\09\09532e6731233811e96b8a9706653f16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\09687fc65f734b98e3b19d08d1e90915
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\09\09687fc65f734b98e3b19d08d1e90915
+    projectPath: Library\Artifacts\09\09687fc65f734b98e3b19d08d1e90915
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\09a5375c9526cb579bb11ef8fbd5c6c7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\09\09a5375c9526cb579bb11ef8fbd5c6c7
+    projectPath: Library\Artifacts\09\09a5375c9526cb579bb11ef8fbd5c6c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\09ce69e12ca7b3adaade35f2e14a3521
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\09\09ce69e12ca7b3adaade35f2e14a3521
+    projectPath: Library\Artifacts\09\09ce69e12ca7b3adaade35f2e14a3521
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a0ba34e7cd8aad78320fbb4feb9fc69
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0a\0a0ba34e7cd8aad78320fbb4feb9fc69
+    projectPath: Library\Artifacts\0a\0a0ba34e7cd8aad78320fbb4feb9fc69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0af52a159d1835ec5c97b634420dd334
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0a\0af52a159d1835ec5c97b634420dd334
+    projectPath: Library\Artifacts\0a\0af52a159d1835ec5c97b634420dd334
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0ba3599f9cba8780c2574977124b77ed
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0b\0ba3599f9cba8780c2574977124b77ed
+    projectPath: Library\Artifacts\0b\0ba3599f9cba8780c2574977124b77ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0b\0baf285f5d4a02b74ef2620a97a1ed2d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0b\0baf285f5d4a02b74ef2620a97a1ed2d
+    projectPath: Library\Artifacts\0b\0baf285f5d4a02b74ef2620a97a1ed2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0c\0ceaf159ba3fe17b1aa7de86a37a6de3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0c\0ceaf159ba3fe17b1aa7de86a37a6de3
+    projectPath: Library\Artifacts\0c\0ceaf159ba3fe17b1aa7de86a37a6de3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0db560e8b1d84db54d5eebe4873e932e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0d\0db560e8b1d84db54d5eebe4873e932e
+    projectPath: Library\Artifacts\0d\0db560e8b1d84db54d5eebe4873e932e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0df354ad69370418a840845230d5fcd4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0d\0df354ad69370418a840845230d5fcd4
+    projectPath: Library\Artifacts\0d\0df354ad69370418a840845230d5fcd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0e39007022e53f873dae10ca377e6e1e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0e\0e39007022e53f873dae10ca377e6e1e
+    projectPath: Library\Artifacts\0e\0e39007022e53f873dae10ca377e6e1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0f26767fd6d07db022e920f50dce7d33
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0f\0f26767fd6d07db022e920f50dce7d33
+    projectPath: Library\Artifacts\0f\0f26767fd6d07db022e920f50dce7d33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0f\0ff95baae030ea2cf70dc6cf8c0dc350
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0f\0ff95baae030ea2cf70dc6cf8c0dc350
+    projectPath: Library\Artifacts\0f\0ff95baae030ea2cf70dc6cf8c0dc350
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\111b7ff060589e75084e619e9dd25c02
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\11\111b7ff060589e75084e619e9dd25c02
+    projectPath: Library\Artifacts\11\111b7ff060589e75084e619e9dd25c02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\11\115dc059c4c66a5a8587374add5cefd3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\11\115dc059c4c66a5a8587374add5cefd3
+    projectPath: Library\Artifacts\11\115dc059c4c66a5a8587374add5cefd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11c6cd8d384cc04e745e9b60615ab45b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\11\11c6cd8d384cc04e745e9b60615ab45b
+    projectPath: Library\Artifacts\11\11c6cd8d384cc04e745e9b60615ab45b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\12\12a163ce69b769cfc6552402ab3042f2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\12\12a163ce69b769cfc6552402ab3042f2
+    projectPath: Library\Artifacts\12\12a163ce69b769cfc6552402ab3042f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\138e6c9df4d38f4f6c01a4ab15f25a41
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\13\138e6c9df4d38f4f6c01a4ab15f25a41
+    projectPath: Library\Artifacts\13\138e6c9df4d38f4f6c01a4ab15f25a41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\13954a956c65c2a97503a5559269d43c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\13\13954a956c65c2a97503a5559269d43c
+    projectPath: Library\Artifacts\13\13954a956c65c2a97503a5559269d43c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\139f5fdf2f1fd0d6940de6cfee34d07b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\13\139f5fdf2f1fd0d6940de6cfee34d07b
+    projectPath: Library\Artifacts\13\139f5fdf2f1fd0d6940de6cfee34d07b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14a623b2b91cb3973eb0d2057a5fea69
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\14\14a623b2b91cb3973eb0d2057a5fea69
+    projectPath: Library\Artifacts\14\14a623b2b91cb3973eb0d2057a5fea69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14a7946061618cbf7d274e01881f1346
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\14\14a7946061618cbf7d274e01881f1346
+    projectPath: Library\Artifacts\14\14a7946061618cbf7d274e01881f1346
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14a9185f57a77cfdfa025503a9cdd7f7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\14\14a9185f57a77cfdfa025503a9cdd7f7
+    projectPath: Library\Artifacts\14\14a9185f57a77cfdfa025503a9cdd7f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\15\15e5a625f9f724a28d0a9dade6bbc696
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\15\15e5a625f9f724a28d0a9dade6bbc696
+    projectPath: Library\Artifacts\15\15e5a625f9f724a28d0a9dade6bbc696
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\163261f1ac60d3d3df06579ede599f50
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\16\163261f1ac60d3d3df06579ede599f50
+    projectPath: Library\Artifacts\16\163261f1ac60d3d3df06579ede599f50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\169a9869a034a115c1319eb3e25f9d32
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\16\169a9869a034a115c1319eb3e25f9d32
+    projectPath: Library\Artifacts\16\169a9869a034a115c1319eb3e25f9d32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\16\16b24b027fb49390e5b4357cc00a4641
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\16\16b24b027fb49390e5b4357cc00a4641
+    projectPath: Library\Artifacts\16\16b24b027fb49390e5b4357cc00a4641
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\18\188c6d92217c12db4e7afbe149e9cc45
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\18\188c6d92217c12db4e7afbe149e9cc45
+    projectPath: Library\Artifacts\18\188c6d92217c12db4e7afbe149e9cc45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1b41548c83656c2f1b567839539ab5a3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1b\1b41548c83656c2f1b567839539ab5a3
+    projectPath: Library\Artifacts\1b\1b41548c83656c2f1b567839539ab5a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1b500908a7dd6646f8da14a97c0762bb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1b\1b500908a7dd6646f8da14a97c0762bb
+    projectPath: Library\Artifacts\1b\1b500908a7dd6646f8da14a97c0762bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1bf5e114f93d4505161d3926d433ed43
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1b\1bf5e114f93d4505161d3926d433ed43
+    projectPath: Library\Artifacts\1b\1bf5e114f93d4505161d3926d433ed43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1c39266b7d599a59efa16c6ffde7ec1a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1c\1c39266b7d599a59efa16c6ffde7ec1a
+    projectPath: Library\Artifacts\1c\1c39266b7d599a59efa16c6ffde7ec1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1c9407911997c77fd27e0e1e9b65d454
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1c\1c9407911997c77fd27e0e1e9b65d454
+    projectPath: Library\Artifacts\1c\1c9407911997c77fd27e0e1e9b65d454
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1cac0311bf8eebdb822a57c3bb0f942d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1c\1cac0311bf8eebdb822a57c3bb0f942d
+    projectPath: Library\Artifacts\1c\1cac0311bf8eebdb822a57c3bb0f942d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1d16c1e1e3d1925837502d47690b20c2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1d\1d16c1e1e3d1925837502d47690b20c2
+    projectPath: Library\Artifacts\1d\1d16c1e1e3d1925837502d47690b20c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1d\1de5b187b8c3041c5dd9239e3f22feb2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1d\1de5b187b8c3041c5dd9239e3f22feb2
+    projectPath: Library\Artifacts\1d\1de5b187b8c3041c5dd9239e3f22feb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1ed7964eda29fa7199f6e398afa1b2a9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\1e\1ed7964eda29fa7199f6e398afa1b2a9
+    projectPath: Library\Artifacts\1e\1ed7964eda29fa7199f6e398afa1b2a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\202069ed55e83717fce15585956deb87
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\20\202069ed55e83717fce15585956deb87
+    projectPath: Library\Artifacts\20\202069ed55e83717fce15585956deb87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\21\21d20b647b76d74caf48960a5754ceb8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\21\21d20b647b76d74caf48960a5754ceb8
+    projectPath: Library\Artifacts\21\21d20b647b76d74caf48960a5754ceb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\2271b2d09a65ea411a61ae4feac55a46
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\22\2271b2d09a65ea411a61ae4feac55a46
+    projectPath: Library\Artifacts\22\2271b2d09a65ea411a61ae4feac55a46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\228efd1f1cbb5bbde38cd9ebd19bea5e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\22\228efd1f1cbb5bbde38cd9ebd19bea5e
+    projectPath: Library\Artifacts\22\228efd1f1cbb5bbde38cd9ebd19bea5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\230851f5220003aa86d90d8a7353da80
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\23\230851f5220003aa86d90d8a7353da80
+    projectPath: Library\Artifacts\23\230851f5220003aa86d90d8a7353da80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\2443c16c11444029fd455d4d1e7df16b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\24\2443c16c11444029fd455d4d1e7df16b
+    projectPath: Library\Artifacts\24\2443c16c11444029fd455d4d1e7df16b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\249a28eb0a04f26af6b430a25ba20abf
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\24\249a28eb0a04f26af6b430a25ba20abf
+    projectPath: Library\Artifacts\24\249a28eb0a04f26af6b430a25ba20abf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\253c7b76d7c105e0d3d7bc1fd5d39afb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\25\253c7b76d7c105e0d3d7bc1fd5d39afb
+    projectPath: Library\Artifacts\25\253c7b76d7c105e0d3d7bc1fd5d39afb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\25b108244a2bb719382a2ef51cc71d3a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\25\25b108244a2bb719382a2ef51cc71d3a
+    projectPath: Library\Artifacts\25\25b108244a2bb719382a2ef51cc71d3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\2640471a59747ce1691803bfff8af0da
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\26\2640471a59747ce1691803bfff8af0da
+    projectPath: Library\Artifacts\26\2640471a59747ce1691803bfff8af0da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26ae0f7b17d0623870780ac332ad7d66
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\26\26ae0f7b17d0623870780ac332ad7d66
+    projectPath: Library\Artifacts\26\26ae0f7b17d0623870780ac332ad7d66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\274ddae0b9b66d14711e58f87e4dbc84
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\27\274ddae0b9b66d14711e58f87e4dbc84
+    projectPath: Library\Artifacts\27\274ddae0b9b66d14711e58f87e4dbc84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\28\281f754aa0e1d3e248c85d6475340ea6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\28\281f754aa0e1d3e248c85d6475340ea6
+    projectPath: Library\Artifacts\28\281f754aa0e1d3e248c85d6475340ea6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\29\29281b493bd2e0f3b8724273517bfcca
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\29\29281b493bd2e0f3b8724273517bfcca
+    projectPath: Library\Artifacts\29\29281b493bd2e0f3b8724273517bfcca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\29\2930241753f0594544e6ef9faeea1f16
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\29\2930241753f0594544e6ef9faeea1f16
+    projectPath: Library\Artifacts\29\2930241753f0594544e6ef9faeea1f16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2ad5508e4357c83396a79cccf07af5f7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2a\2ad5508e4357c83396a79cccf07af5f7
+    projectPath: Library\Artifacts\2a\2ad5508e4357c83396a79cccf07af5f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2b\2b72cfc1ed4ed80f958b5002d61a9a29
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2b\2b72cfc1ed4ed80f958b5002d61a9a29
+    projectPath: Library\Artifacts\2b\2b72cfc1ed4ed80f958b5002d61a9a29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2b\2ba612fb15ac4b9a36754c29e5178a7f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2b\2ba612fb15ac4b9a36754c29e5178a7f
+    projectPath: Library\Artifacts\2b\2ba612fb15ac4b9a36754c29e5178a7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2c55ab7c3e8eebbff07d85e48c2b1641
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2c\2c55ab7c3e8eebbff07d85e48c2b1641
+    projectPath: Library\Artifacts\2c\2c55ab7c3e8eebbff07d85e48c2b1641
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d0d00f2b8445604dc30eafeaa186aa9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2d\2d0d00f2b8445604dc30eafeaa186aa9
+    projectPath: Library\Artifacts\2d\2d0d00f2b8445604dc30eafeaa186aa9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2d\2d1f4fba3b88caf5735d52965afe88fb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2d\2d1f4fba3b88caf5735d52965afe88fb
+    projectPath: Library\Artifacts\2d\2d1f4fba3b88caf5735d52965afe88fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d3f1b4b37cea7198dfac0fa7886f040
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2d\2d3f1b4b37cea7198dfac0fa7886f040
+    projectPath: Library\Artifacts\2d\2d3f1b4b37cea7198dfac0fa7886f040
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d670d5aca2c6769d74a157ef2a9609b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2d\2d670d5aca2c6769d74a157ef2a9609b
+    projectPath: Library\Artifacts\2d\2d670d5aca2c6769d74a157ef2a9609b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2e\2e159b5d2a685546bf4e22798c717669
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2e\2e159b5d2a685546bf4e22798c717669
+    projectPath: Library\Artifacts\2e\2e159b5d2a685546bf4e22798c717669
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2e\2e3d0b4422e5381e7675ba90beacc5f8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2e\2e3d0b4422e5381e7675ba90beacc5f8
+    projectPath: Library\Artifacts\2e\2e3d0b4422e5381e7675ba90beacc5f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2e\2eda1aa9e45fb318a2ff8070d7d0d486
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2e\2eda1aa9e45fb318a2ff8070d7d0d486
+    projectPath: Library\Artifacts\2e\2eda1aa9e45fb318a2ff8070d7d0d486
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2f\2f14c28944730d0cc623a33abb64213a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2f\2f14c28944730d0cc623a33abb64213a
+    projectPath: Library\Artifacts\2f\2f14c28944730d0cc623a33abb64213a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f4253cd3881b327bf5b9900873173b2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2f\2f4253cd3881b327bf5b9900873173b2
+    projectPath: Library\Artifacts\2f\2f4253cd3881b327bf5b9900873173b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f9dfb04b4ae82fc391a8d8ae9c268d3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2f\2f9dfb04b4ae82fc391a8d8ae9c268d3
+    projectPath: Library\Artifacts\2f\2f9dfb04b4ae82fc391a8d8ae9c268d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30613a578203279c4077d786c80c3e74
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\30\30613a578203279c4077d786c80c3e74
+    projectPath: Library\Artifacts\30\30613a578203279c4077d786c80c3e74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30de0fd48051e7904457e84343a8296f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\30\30de0fd48051e7904457e84343a8296f
+    projectPath: Library\Artifacts\30\30de0fd48051e7904457e84343a8296f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30f025441019e653eb3f6ec627eb7448
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\30\30f025441019e653eb3f6ec627eb7448
+    projectPath: Library\Artifacts\30\30f025441019e653eb3f6ec627eb7448
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\3124e663aed40c2a451790a8dd66c755
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\31\3124e663aed40c2a451790a8dd66c755
+    projectPath: Library\Artifacts\31\3124e663aed40c2a451790a8dd66c755
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\31\318fa5d49d5b561ebeb6232dbfa52619
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\31\318fa5d49d5b561ebeb6232dbfa52619
+    projectPath: Library\Artifacts\31\318fa5d49d5b561ebeb6232dbfa52619
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\33\330d449cfcd0c9c62eb08d43d5dd6baa
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\33\330d449cfcd0c9c62eb08d43d5dd6baa
+    projectPath: Library\Artifacts\33\330d449cfcd0c9c62eb08d43d5dd6baa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\3429b16cd6e6658e2f99f38a251a70bf
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\34\3429b16cd6e6658e2f99f38a251a70bf
+    projectPath: Library\Artifacts\34\3429b16cd6e6658e2f99f38a251a70bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\348cd88bc7f6d58856b363c62da0dce2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\34\348cd88bc7f6d58856b363c62da0dce2
+    projectPath: Library\Artifacts\34\348cd88bc7f6d58856b363c62da0dce2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\34bb0e09cb86568db82b1eabe984982c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\34\34bb0e09cb86568db82b1eabe984982c
+    projectPath: Library\Artifacts\34\34bb0e09cb86568db82b1eabe984982c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\34\34ec02e00aadd360933e59b3db94915a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\34\34ec02e00aadd360933e59b3db94915a
+    projectPath: Library\Artifacts\34\34ec02e00aadd360933e59b3db94915a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\35\350a6f4ac205d964b12ebd6e7d3d4758
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\35\350a6f4ac205d964b12ebd6e7d3d4758
+    projectPath: Library\Artifacts\35\350a6f4ac205d964b12ebd6e7d3d4758
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\35\35dcfb5a8e8924ca0ebe4e285f8c3d72
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\35\35dcfb5a8e8924ca0ebe4e285f8c3d72
+    projectPath: Library\Artifacts\35\35dcfb5a8e8924ca0ebe4e285f8c3d72
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\36\360fa91f15cd3f237c7441c65fd39a29
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\36\360fa91f15cd3f237c7441c65fd39a29
+    projectPath: Library\Artifacts\36\360fa91f15cd3f237c7441c65fd39a29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\36\360fea8ccbf8978596b066ba7ce56c12
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\36\360fea8ccbf8978596b066ba7ce56c12
+    projectPath: Library\Artifacts\36\360fea8ccbf8978596b066ba7ce56c12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36b811c6dc0360619d0abfd447a51156
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\36\36b811c6dc0360619d0abfd447a51156
+    projectPath: Library\Artifacts\36\36b811c6dc0360619d0abfd447a51156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36e59d21c7bd0333141332b2755aedb9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\36\36e59d21c7bd0333141332b2755aedb9
+    projectPath: Library\Artifacts\36\36e59d21c7bd0333141332b2755aedb9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\36\36f37a7b3a62c260373db909a30b7db2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\36\36f37a7b3a62c260373db909a30b7db2
+    projectPath: Library\Artifacts\36\36f37a7b3a62c260373db909a30b7db2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\37\37346c1e3c38b9893393dcd7e6175103
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\37\37346c1e3c38b9893393dcd7e6175103
+    projectPath: Library\Artifacts\37\37346c1e3c38b9893393dcd7e6175103
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\38\38afeb9bf13001cbba0f8e0e53afe939
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\38\38afeb9bf13001cbba0f8e0e53afe939
+    projectPath: Library\Artifacts\38\38afeb9bf13001cbba0f8e0e53afe939
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38d44df457bebe71b755812a604a7b7a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\38\38d44df457bebe71b755812a604a7b7a
+    projectPath: Library\Artifacts\38\38d44df457bebe71b755812a604a7b7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\39314ef15e9f1156d432dafdd478b274
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\39\39314ef15e9f1156d432dafdd478b274
+    projectPath: Library\Artifacts\39\39314ef15e9f1156d432dafdd478b274
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\39b2fe676a3847e53fb966202bf9e1a0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\39\39b2fe676a3847e53fb966202bf9e1a0
+    projectPath: Library\Artifacts\39\39b2fe676a3847e53fb966202bf9e1a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a2657edc13859e72cd3e4f5bd5b6986
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\3a\3a2657edc13859e72cd3e4f5bd5b6986
+    projectPath: Library\Artifacts\3a\3a2657edc13859e72cd3e4f5bd5b6986
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3a9140f8c6eac4f3be1a6482212fd803
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\3a\3a9140f8c6eac4f3be1a6482212fd803
+    projectPath: Library\Artifacts\3a\3a9140f8c6eac4f3be1a6482212fd803
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3d27e257672c56599f9ac8a695c5a0ec
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\3d\3d27e257672c56599f9ac8a695c5a0ec
+    projectPath: Library\Artifacts\3d\3d27e257672c56599f9ac8a695c5a0ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3d7397553a704e076d03f323a952674a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\3d\3d7397553a704e076d03f323a952674a
+    projectPath: Library\Artifacts\3d\3d7397553a704e076d03f323a952674a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\41\41f205bc349c6201ca29786ad8bb113d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\41\41f205bc349c6201ca29786ad8bb113d
+    projectPath: Library\Artifacts\41\41f205bc349c6201ca29786ad8bb113d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\42\42c5af3b45b0971aca5cb63bceee90fa
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\42\42c5af3b45b0971aca5cb63bceee90fa
+    projectPath: Library\Artifacts\42\42c5af3b45b0971aca5cb63bceee90fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\44c2097d7c928ce9c6d71cf462ee51b3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\44\44c2097d7c928ce9c6d71cf462ee51b3
+    projectPath: Library\Artifacts\44\44c2097d7c928ce9c6d71cf462ee51b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\45\452a56601ca874325194e31a274c9452
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\45\452a56601ca874325194e31a274c9452
+    projectPath: Library\Artifacts\45\452a56601ca874325194e31a274c9452
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\46\462a8cc816d3c4ea8eb1cdbd1948ebe9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\46\462a8cc816d3c4ea8eb1cdbd1948ebe9
+    projectPath: Library\Artifacts\46\462a8cc816d3c4ea8eb1cdbd1948ebe9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\46b40f2f4a000d5d83dcb04d2783ecb2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\46\46b40f2f4a000d5d83dcb04d2783ecb2
+    projectPath: Library\Artifacts\46\46b40f2f4a000d5d83dcb04d2783ecb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\4807e1c6da54cd23fd8c0aa68577d8d6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\48\4807e1c6da54cd23fd8c0aa68577d8d6
+    projectPath: Library\Artifacts\48\4807e1c6da54cd23fd8c0aa68577d8d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\48\482e354a8c399a23465fe97169319b46
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\48\482e354a8c399a23465fe97169319b46
+    projectPath: Library\Artifacts\48\482e354a8c399a23465fe97169319b46
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\48\4835c1f6eb58926363ef641747fb25d1
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\48\4835c1f6eb58926363ef641747fb25d1
+    projectPath: Library\Artifacts\48\4835c1f6eb58926363ef641747fb25d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49addd214366bce1cba37bf000caefde
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\49\49addd214366bce1cba37bf000caefde
+    projectPath: Library\Artifacts\49\49addd214366bce1cba37bf000caefde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49e2d9a69bdf604526dcd7cf206a06c4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\49\49e2d9a69bdf604526dcd7cf206a06c4
+    projectPath: Library\Artifacts\49\49e2d9a69bdf604526dcd7cf206a06c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\49\49e82387cd2a49846e8b78d0b51f4cb8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\49\49e82387cd2a49846e8b78d0b51f4cb8
+    projectPath: Library\Artifacts\49\49e82387cd2a49846e8b78d0b51f4cb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a4409991df5f00474723e3993addafd
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4a\4a4409991df5f00474723e3993addafd
+    projectPath: Library\Artifacts\4a\4a4409991df5f00474723e3993addafd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b42a898854c9fd9c5cfa2e8e52088e7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4b\4b42a898854c9fd9c5cfa2e8e52088e7
+    projectPath: Library\Artifacts\4b\4b42a898854c9fd9c5cfa2e8e52088e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4c4cd4d6f07f0af57f7d5b2368fd0764
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4c\4c4cd4d6f07f0af57f7d5b2368fd0764
+    projectPath: Library\Artifacts\4c\4c4cd4d6f07f0af57f7d5b2368fd0764
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4e09b2318a720acc4be6f90b5b0d7aff
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4e\4e09b2318a720acc4be6f90b5b0d7aff
+    projectPath: Library\Artifacts\4e\4e09b2318a720acc4be6f90b5b0d7aff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4ebf8bee87b27718860ffeac473d1df7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4e\4ebf8bee87b27718860ffeac473d1df7
+    projectPath: Library\Artifacts\4e\4ebf8bee87b27718860ffeac473d1df7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4f02bacd0b979612134d15cbcf3e4a1a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4f\4f02bacd0b979612134d15cbcf3e4a1a
+    projectPath: Library\Artifacts\4f\4f02bacd0b979612134d15cbcf3e4a1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4f16bad85d69c7cf2a3719160cbbf819
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4f\4f16bad85d69c7cf2a3719160cbbf819
+    projectPath: Library\Artifacts\4f\4f16bad85d69c7cf2a3719160cbbf819
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4f\4f973e3240ced17d36ceccdeb5349dd4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4f\4f973e3240ced17d36ceccdeb5349dd4
+    projectPath: Library\Artifacts\4f\4f973e3240ced17d36ceccdeb5349dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\50eb16142f1225010ed1cb5acd18714d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\50\50eb16142f1225010ed1cb5acd18714d
+    projectPath: Library\Artifacts\50\50eb16142f1225010ed1cb5acd18714d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\52\528dcb855c1140d6f52ce7445f686a06
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\52\528dcb855c1140d6f52ce7445f686a06
+    projectPath: Library\Artifacts\52\528dcb855c1140d6f52ce7445f686a06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\52\52d53538310808d4b82bae52a085ccc7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\52\52d53538310808d4b82bae52a085ccc7
+    projectPath: Library\Artifacts\52\52d53538310808d4b82bae52a085ccc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\539a2b32fdb385abf83a3c1231c67860
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\53\539a2b32fdb385abf83a3c1231c67860
+    projectPath: Library\Artifacts\53\539a2b32fdb385abf83a3c1231c67860
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\544a677c240c9fe6f28ad38da60e2b5d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\54\544a677c240c9fe6f28ad38da60e2b5d
+    projectPath: Library\Artifacts\54\544a677c240c9fe6f28ad38da60e2b5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\546d49999132b144aab489bb2fdf8e61
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\54\546d49999132b144aab489bb2fdf8e61
+    projectPath: Library\Artifacts\54\546d49999132b144aab489bb2fdf8e61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\549f965a753a03501458d23b9f53af11
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\54\549f965a753a03501458d23b9f53af11
+    projectPath: Library\Artifacts\54\549f965a753a03501458d23b9f53af11
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\55\55c861f9e00ce371b8fdda979b561140
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\55\55c861f9e00ce371b8fdda979b561140
+    projectPath: Library\Artifacts\55\55c861f9e00ce371b8fdda979b561140
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55f5aa13bef1961f3f0f3a77b946801c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\55\55f5aa13bef1961f3f0f3a77b946801c
+    projectPath: Library\Artifacts\55\55f5aa13bef1961f3f0f3a77b946801c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\5668cc3d5e355cc6087bb67d3d30b61b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\56\5668cc3d5e355cc6087bb67d3d30b61b
+    projectPath: Library\Artifacts\56\5668cc3d5e355cc6087bb67d3d30b61b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56cc29660c07ea64a2c2cffd642ff769
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\56\56cc29660c07ea64a2c2cffd642ff769
+    projectPath: Library\Artifacts\56\56cc29660c07ea64a2c2cffd642ff769
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56e61cd3486783f2b00160a62f4df8e8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\56\56e61cd3486783f2b00160a62f4df8e8
+    projectPath: Library\Artifacts\56\56e61cd3486783f2b00160a62f4df8e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\57\570c6deb533ee7f1fc69bde5a529adc4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\57\570c6deb533ee7f1fc69bde5a529adc4
+    projectPath: Library\Artifacts\57\570c6deb533ee7f1fc69bde5a529adc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\576e295c01828942bbdd6c7c1e61488b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\57\576e295c01828942bbdd6c7c1e61488b
+    projectPath: Library\Artifacts\57\576e295c01828942bbdd6c7c1e61488b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\5807f27cef41f893eb71d1a58b4c6a40
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\58\5807f27cef41f893eb71d1a58b4c6a40
+    projectPath: Library\Artifacts\58\5807f27cef41f893eb71d1a58b4c6a40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b0eb981bac5613e4f3e646929a73b94
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5b\5b0eb981bac5613e4f3e646929a73b94
+    projectPath: Library\Artifacts\5b\5b0eb981bac5613e4f3e646929a73b94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b2d6d1302f332a48619d35b0db1390d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5b\5b2d6d1302f332a48619d35b0db1390d
+    projectPath: Library\Artifacts\5b\5b2d6d1302f332a48619d35b0db1390d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b5fd2784c3ef827cb780945a49a8938
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5b\5b5fd2784c3ef827cb780945a49a8938
+    projectPath: Library\Artifacts\5b\5b5fd2784c3ef827cb780945a49a8938
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b6ad08f5c77532b30839efae3b0059b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5b\5b6ad08f5c77532b30839efae3b0059b
+    projectPath: Library\Artifacts\5b\5b6ad08f5c77532b30839efae3b0059b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5bae018f8260b4d75860205e3220ead5
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5b\5bae018f8260b4d75860205e3220ead5
+    projectPath: Library\Artifacts\5b\5bae018f8260b4d75860205e3220ead5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5c6dc1108e7266fb0660881bc3aa59a1
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5c\5c6dc1108e7266fb0660881bc3aa59a1
+    projectPath: Library\Artifacts\5c\5c6dc1108e7266fb0660881bc3aa59a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5d1a740a61340f8d35ef32274a3bbfdc
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5d\5d1a740a61340f8d35ef32274a3bbfdc
+    projectPath: Library\Artifacts\5d\5d1a740a61340f8d35ef32274a3bbfdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5e\5e10fbc0cdbe6d884b50dc8536009cb7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5e\5e10fbc0cdbe6d884b50dc8536009cb7
+    projectPath: Library\Artifacts\5e\5e10fbc0cdbe6d884b50dc8536009cb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5e\5ea9a829afe75a86feb7f3fb359abb75
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\5e\5ea9a829afe75a86feb7f3fb359abb75
+    projectPath: Library\Artifacts\5e\5ea9a829afe75a86feb7f3fb359abb75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\60\60b12f2e3532f2b50325b075ea81c627
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\60\60b12f2e3532f2b50325b075ea81c627
+    projectPath: Library\Artifacts\60\60b12f2e3532f2b50325b075ea81c627
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\61a272a0957447b4aa4a77e843ece534
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\61\61a272a0957447b4aa4a77e843ece534
+    projectPath: Library\Artifacts\61\61a272a0957447b4aa4a77e843ece534
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\63\6338e80f2c6bd149f819b7ee03c233cd
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\63\6338e80f2c6bd149f819b7ee03c233cd
+    projectPath: Library\Artifacts\63\6338e80f2c6bd149f819b7ee03c233cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\65\65ce0b77cbdd3f601b43f02a4570120f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\65\65ce0b77cbdd3f601b43f02a4570120f
+    projectPath: Library\Artifacts\65\65ce0b77cbdd3f601b43f02a4570120f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\6937f5f840d00536492c189127fe42a2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\69\6937f5f840d00536492c189127fe42a2
+    projectPath: Library\Artifacts\69\6937f5f840d00536492c189127fe42a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\69\69cfe9e5aff2476a77e9b729a9ce8a2f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\69\69cfe9e5aff2476a77e9b729a9ce8a2f
+    projectPath: Library\Artifacts\69\69cfe9e5aff2476a77e9b729a9ce8a2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\69df05f29eccb28d565b48f20b71464b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\69\69df05f29eccb28d565b48f20b71464b
+    projectPath: Library\Artifacts\69\69df05f29eccb28d565b48f20b71464b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\69\69fa23337d266ee901f188b40e5238e8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\69\69fa23337d266ee901f188b40e5238e8
+    projectPath: Library\Artifacts\69\69fa23337d266ee901f188b40e5238e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6a\6a5fc5db02efd2962d04c6085ab1daf0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6a\6a5fc5db02efd2962d04c6085ab1daf0
+    projectPath: Library\Artifacts\6a\6a5fc5db02efd2962d04c6085ab1daf0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a84352fe5cbc1a04ce2ea3485922331
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6a\6a84352fe5cbc1a04ce2ea3485922331
+    projectPath: Library\Artifacts\6a\6a84352fe5cbc1a04ce2ea3485922331
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6bddb0945c6e2095c6b284ff7c76e1c3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6b\6bddb0945c6e2095c6b284ff7c76e1c3
+    projectPath: Library\Artifacts\6b\6bddb0945c6e2095c6b284ff7c76e1c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6bed0bd772627b1773e7f3e79facf70a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6b\6bed0bd772627b1773e7f3e79facf70a
+    projectPath: Library\Artifacts\6b\6bed0bd772627b1773e7f3e79facf70a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6cba46c853b4bb99d9f1dd3eaf4639e4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6c\6cba46c853b4bb99d9f1dd3eaf4639e4
+    projectPath: Library\Artifacts\6c\6cba46c853b4bb99d9f1dd3eaf4639e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d1b8f2a038ad4c0733a29b751d246f8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6d\6d1b8f2a038ad4c0733a29b751d246f8
+    projectPath: Library\Artifacts\6d\6d1b8f2a038ad4c0733a29b751d246f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d742a1717697f9f1751c0ced80e9d9b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\6d\6d742a1717697f9f1751c0ced80e9d9b
+    projectPath: Library\Artifacts\6d\6d742a1717697f9f1751c0ced80e9d9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\70b1ad42af5561e71ff84c510d1a05d6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\70\70b1ad42af5561e71ff84c510d1a05d6
+    projectPath: Library\Artifacts\70\70b1ad42af5561e71ff84c510d1a05d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\70f8bd59b39017c0211d8308e99e8412
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\70\70f8bd59b39017c0211d8308e99e8412
+    projectPath: Library\Artifacts\70\70f8bd59b39017c0211d8308e99e8412
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\71b0eae210dcaf11c26dc32cc8ae602e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\71\71b0eae210dcaf11c26dc32cc8ae602e
+    projectPath: Library\Artifacts\71\71b0eae210dcaf11c26dc32cc8ae602e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\72f8cb0567ce9b54a455d6e82e1fd234
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\72\72f8cb0567ce9b54a455d6e82e1fd234
+    projectPath: Library\Artifacts\72\72f8cb0567ce9b54a455d6e82e1fd234
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\740708c06a5452b2f22fe30e4838a794
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\74\740708c06a5452b2f22fe30e4838a794
+    projectPath: Library\Artifacts\74\740708c06a5452b2f22fe30e4838a794
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\76ff61ed3c26aeff42adef05ea42368e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\76\76ff61ed3c26aeff42adef05ea42368e
+    projectPath: Library\Artifacts\76\76ff61ed3c26aeff42adef05ea42368e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\777c1d138e19e86d2fcfd41e0be94212
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\77\777c1d138e19e86d2fcfd41e0be94212
+    projectPath: Library\Artifacts\77\777c1d138e19e86d2fcfd41e0be94212
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\77\77be74b522f68606878cde66ed92753e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\77\77be74b522f68606878cde66ed92753e
+    projectPath: Library\Artifacts\77\77be74b522f68606878cde66ed92753e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\7837135c51ffde682ab282331b9f2dfd
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\78\7837135c51ffde682ab282331b9f2dfd
+    projectPath: Library\Artifacts\78\7837135c51ffde682ab282331b9f2dfd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\78fb712877d16c8482d3eb272cffc5d4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\78\78fb712877d16c8482d3eb272cffc5d4
+    projectPath: Library\Artifacts\78\78fb712877d16c8482d3eb272cffc5d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\79\79fdc18bfe3c6f6bcbc9b9931d6739ce
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\79\79fdc18bfe3c6f6bcbc9b9931d6739ce
+    projectPath: Library\Artifacts\79\79fdc18bfe3c6f6bcbc9b9931d6739ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7ac5ebe6ca89aa66f3926be7026adf07
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7a\7ac5ebe6ca89aa66f3926be7026adf07
+    projectPath: Library\Artifacts\7a\7ac5ebe6ca89aa66f3926be7026adf07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7ad6ee5d9e9106d77dcbe4c39f5bcb6e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7a\7ad6ee5d9e9106d77dcbe4c39f5bcb6e
+    projectPath: Library\Artifacts\7a\7ad6ee5d9e9106d77dcbe4c39f5bcb6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7bc24c17a45174281317b9fbdbd7522b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7b\7bc24c17a45174281317b9fbdbd7522b
+    projectPath: Library\Artifacts\7b\7bc24c17a45174281317b9fbdbd7522b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7c\7c64c5912f57f12ff19a48ecbaca48dc
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7c\7c64c5912f57f12ff19a48ecbaca48dc
+    projectPath: Library\Artifacts\7c\7c64c5912f57f12ff19a48ecbaca48dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7c\7c94f3c28010b27c61aa949cb32d6c0d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7c\7c94f3c28010b27c61aa949cb32d6c0d
+    projectPath: Library\Artifacts\7c\7c94f3c28010b27c61aa949cb32d6c0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7d02e5eb26085faaf88e2932cb51f781
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7d\7d02e5eb26085faaf88e2932cb51f781
+    projectPath: Library\Artifacts\7d\7d02e5eb26085faaf88e2932cb51f781
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7d747dd42f306018275df33861287f80
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\7d\7d747dd42f306018275df33861287f80
+    projectPath: Library\Artifacts\7d\7d747dd42f306018275df33861287f80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\81b87cef403c88ff67a23f91441b5575
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\81\81b87cef403c88ff67a23f91441b5575
+    projectPath: Library\Artifacts\81\81b87cef403c88ff67a23f91441b5575
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\824110f861e5f9d71ae00efb26d1d39e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\82\824110f861e5f9d71ae00efb26d1d39e
+    projectPath: Library\Artifacts\82\824110f861e5f9d71ae00efb26d1d39e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\8269feb3c0cc410417223d8a68ac1060
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\82\8269feb3c0cc410417223d8a68ac1060
+    projectPath: Library\Artifacts\82\8269feb3c0cc410417223d8a68ac1060
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\8276141c5ad9f5a57f5897b8e70720e3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\82\8276141c5ad9f5a57f5897b8e70720e3
+    projectPath: Library\Artifacts\82\8276141c5ad9f5a57f5897b8e70720e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\848a337508c80669f8621e22cfd57f42
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\84\848a337508c80669f8621e22cfd57f42
+    projectPath: Library\Artifacts\84\848a337508c80669f8621e22cfd57f42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\85\85feb2dc23161e711f1d7645e152b94b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\85\85feb2dc23161e711f1d7645e152b94b
+    projectPath: Library\Artifacts\85\85feb2dc23161e711f1d7645e152b94b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\867bab1ffa8367fef6854672ce551e7a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\86\867bab1ffa8367fef6854672ce551e7a
+    projectPath: Library\Artifacts\86\867bab1ffa8367fef6854672ce551e7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\877dab3cfab8f179999f384714128f6e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\87\877dab3cfab8f179999f384714128f6e
+    projectPath: Library\Artifacts\87\877dab3cfab8f179999f384714128f6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\87b238b3963f4207a019993f6e8d69bc
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\87\87b238b3963f4207a019993f6e8d69bc
+    projectPath: Library\Artifacts\87\87b238b3963f4207a019993f6e8d69bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\8811d75b4759de3ed423ee873ac3df12
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\88\8811d75b4759de3ed423ee873ac3df12
+    projectPath: Library\Artifacts\88\8811d75b4759de3ed423ee873ac3df12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\88\8833203d71204646ad53e6c2360a7691
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\88\8833203d71204646ad53e6c2360a7691
+    projectPath: Library\Artifacts\88\8833203d71204646ad53e6c2360a7691
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\89213be88b7594bea0ccfd1b5c5e4b18
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\89\89213be88b7594bea0ccfd1b5c5e4b18
+    projectPath: Library\Artifacts\89\89213be88b7594bea0ccfd1b5c5e4b18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\895d0db671f8030bd53a39f4e55db7e7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\89\895d0db671f8030bd53a39f4e55db7e7
+    projectPath: Library\Artifacts\89\895d0db671f8030bd53a39f4e55db7e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8a\8a1d3155de9751c2863876919817802f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8a\8a1d3155de9751c2863876919817802f
+    projectPath: Library\Artifacts\8a\8a1d3155de9751c2863876919817802f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8ab8a6e176b75d837cada22699154913
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8a\8ab8a6e176b75d837cada22699154913
+    projectPath: Library\Artifacts\8a\8ab8a6e176b75d837cada22699154913
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8a\8acc426867d789f256395a87671e4502
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8a\8acc426867d789f256395a87671e4502
+    projectPath: Library\Artifacts\8a\8acc426867d789f256395a87671e4502
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8b\8b21118fea65497941c390e25d5b3cfe
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8b\8b21118fea65497941c390e25d5b3cfe
+    projectPath: Library\Artifacts\8b\8b21118fea65497941c390e25d5b3cfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8b5b173c1972b3285c581bca21e07a8b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8b\8b5b173c1972b3285c581bca21e07a8b
+    projectPath: Library\Artifacts\8b\8b5b173c1972b3285c581bca21e07a8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8bc24cce861f996bdc5b5d64265cc2e5
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8b\8bc24cce861f996bdc5b5d64265cc2e5
+    projectPath: Library\Artifacts\8b\8bc24cce861f996bdc5b5d64265cc2e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c6fbe5e2076707f272e8616c77d9d03
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8c\8c6fbe5e2076707f272e8616c77d9d03
+    projectPath: Library\Artifacts\8c\8c6fbe5e2076707f272e8616c77d9d03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8cc1257135831608074389a203ab6c0a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8c\8cc1257135831608074389a203ab6c0a
+    projectPath: Library\Artifacts\8c\8cc1257135831608074389a203ab6c0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8cef724ec9ed7230996163eb9f045bbf
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8c\8cef724ec9ed7230996163eb9f045bbf
+    projectPath: Library\Artifacts\8c\8cef724ec9ed7230996163eb9f045bbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8f73953e43b0cf26291105caf6b4ac4d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8f\8f73953e43b0cf26291105caf6b4ac4d
+    projectPath: Library\Artifacts\8f\8f73953e43b0cf26291105caf6b4ac4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8f77caca8a2700c944697598087e95de
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8f\8f77caca8a2700c944697598087e95de
+    projectPath: Library\Artifacts\8f\8f77caca8a2700c944697598087e95de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8fb93af3bedf2cc07d899d54013b8356
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\8f\8fb93af3bedf2cc07d899d54013b8356
+    projectPath: Library\Artifacts\8f\8fb93af3bedf2cc07d899d54013b8356
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\9099821133bedc57fcce8e1c40436f35
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\90\9099821133bedc57fcce8e1c40436f35
+    projectPath: Library\Artifacts\90\9099821133bedc57fcce8e1c40436f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\9170e73ef83ebc8270ca7d77e3737869
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\91\9170e73ef83ebc8270ca7d77e3737869
+    projectPath: Library\Artifacts\91\9170e73ef83ebc8270ca7d77e3737869
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\923af70035284ea558af1868d845242f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\92\923af70035284ea558af1868d845242f
+    projectPath: Library\Artifacts\92\923af70035284ea558af1868d845242f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92b6301e8f576df60ebfe3cc2753051f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\92\92b6301e8f576df60ebfe3cc2753051f
+    projectPath: Library\Artifacts\92\92b6301e8f576df60ebfe3cc2753051f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\92bfc0c4be8a878400dd593f0d8acdf7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\92\92bfc0c4be8a878400dd593f0d8acdf7
+    projectPath: Library\Artifacts\92\92bfc0c4be8a878400dd593f0d8acdf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\93004bb824374da9fa6a47e01502d42f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\93\93004bb824374da9fa6a47e01502d42f
+    projectPath: Library\Artifacts\93\93004bb824374da9fa6a47e01502d42f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\930fc4638550fe910f40c2a789212e9e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\93\930fc4638550fe910f40c2a789212e9e
+    projectPath: Library\Artifacts\93\930fc4638550fe910f40c2a789212e9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\93b567ae90a8add8ccfc8f95ab565f4c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\93\93b567ae90a8add8ccfc8f95ab565f4c
+    projectPath: Library\Artifacts\93\93b567ae90a8add8ccfc8f95ab565f4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\93cdec11a48c6a60a94140e726a92d0f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\93\93cdec11a48c6a60a94140e726a92d0f
+    projectPath: Library\Artifacts\93\93cdec11a48c6a60a94140e726a92d0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\95\953f78fe757ec5fec6afe973c377c066
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\95\953f78fe757ec5fec6afe973c377c066
+    projectPath: Library\Artifacts\95\953f78fe757ec5fec6afe973c377c066
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\95\95bf37fec400915c261e0e82044c686b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\95\95bf37fec400915c261e0e82044c686b
+    projectPath: Library\Artifacts\95\95bf37fec400915c261e0e82044c686b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\96\962be0f6e1687e4071817fc530785720
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\96\962be0f6e1687e4071817fc530785720
+    projectPath: Library\Artifacts\96\962be0f6e1687e4071817fc530785720
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\96\967286cd41e1bb201780a76815cda47c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\96\967286cd41e1bb201780a76815cda47c
+    projectPath: Library\Artifacts\96\967286cd41e1bb201780a76815cda47c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\971e9ffd28025f6fd948a4573f926a84
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\97\971e9ffd28025f6fd948a4573f926a84
+    projectPath: Library\Artifacts\97\971e9ffd28025f6fd948a4573f926a84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\97c3e1753984b9346951c9ca52ea27fa
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\97\97c3e1753984b9346951c9ca52ea27fa
+    projectPath: Library\Artifacts\97\97c3e1753984b9346951c9ca52ea27fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\9888c5a93b53f0cef3ff321491ebb77f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\98\9888c5a93b53f0cef3ff321491ebb77f
+    projectPath: Library\Artifacts\98\9888c5a93b53f0cef3ff321491ebb77f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\98fcc1ed156c86d2492f933921f37535
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\98\98fcc1ed156c86d2492f933921f37535
+    projectPath: Library\Artifacts\98\98fcc1ed156c86d2492f933921f37535
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\99\99fc877952decc5ba59b2cd2266d8c7a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\99\99fc877952decc5ba59b2cd2266d8c7a
+    projectPath: Library\Artifacts\99\99fc877952decc5ba59b2cd2266d8c7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a007885985227daa31f161f6bc601e5
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9a\9a007885985227daa31f161f6bc601e5
+    projectPath: Library\Artifacts\9a\9a007885985227daa31f161f6bc601e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a39af4231008693083ded3d49850c70
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9a\9a39af4231008693083ded3d49850c70
+    projectPath: Library\Artifacts\9a\9a39af4231008693083ded3d49850c70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9b\9bdaa9600d4dc1074ca7cff62c27030f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9b\9bdaa9600d4dc1074ca7cff62c27030f
+    projectPath: Library\Artifacts\9b\9bdaa9600d4dc1074ca7cff62c27030f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9be01a4c9e7b72e67de24d1f7000ba7a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9b\9be01a4c9e7b72e67de24d1f7000ba7a
+    projectPath: Library\Artifacts\9b\9be01a4c9e7b72e67de24d1f7000ba7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9bf4e7270c9b4ed7238c40377693393a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9b\9bf4e7270c9b4ed7238c40377693393a
+    projectPath: Library\Artifacts\9b\9bf4e7270c9b4ed7238c40377693393a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c0be4a2b82debfd8487ad49ed542137
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9c\9c0be4a2b82debfd8487ad49ed542137
+    projectPath: Library\Artifacts\9c\9c0be4a2b82debfd8487ad49ed542137
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c345d387416bb4c750e60e64e8b076e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9c\9c345d387416bb4c750e60e64e8b076e
+    projectPath: Library\Artifacts\9c\9c345d387416bb4c750e60e64e8b076e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c92c711b9a7d9934ef1b7196eff83b6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9c\9c92c711b9a7d9934ef1b7196eff83b6
+    projectPath: Library\Artifacts\9c\9c92c711b9a7d9934ef1b7196eff83b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9cc75d2d8dff3f21ca84a4b33ccdf31b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9c\9cc75d2d8dff3f21ca84a4b33ccdf31b
+    projectPath: Library\Artifacts\9c\9cc75d2d8dff3f21ca84a4b33ccdf31b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9d\9d51cacc83ed2d73c2b57e576c5e6d95
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9d\9d51cacc83ed2d73c2b57e576c5e6d95
+    projectPath: Library\Artifacts\9d\9d51cacc83ed2d73c2b57e576c5e6d95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9d\9d57a90ca1340911acc527255e93e191
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9d\9d57a90ca1340911acc527255e93e191
+    projectPath: Library\Artifacts\9d\9d57a90ca1340911acc527255e93e191
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9ea1ca28a1e37d0f8a3e437eadfcdd91
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9e\9ea1ca28a1e37d0f8a3e437eadfcdd91
+    projectPath: Library\Artifacts\9e\9ea1ca28a1e37d0f8a3e437eadfcdd91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a015fad3e9da0a8ab3e9e3fbc7fe5766
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a0\a015fad3e9da0a8ab3e9e3fbc7fe5766
+    projectPath: Library\Artifacts\a0\a015fad3e9da0a8ab3e9e3fbc7fe5766
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a36f5308ee3fbdc74a4f77f4ebcc25ed
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a3\a36f5308ee3fbdc74a4f77f4ebcc25ed
+    projectPath: Library\Artifacts\a3\a36f5308ee3fbdc74a4f77f4ebcc25ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a46fb0d3b5ca361a1ae8cd316f71b44f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a4\a46fb0d3b5ca361a1ae8cd316f71b44f
+    projectPath: Library\Artifacts\a4\a46fb0d3b5ca361a1ae8cd316f71b44f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a4e70917374a95f073e8c5af47ad811e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a4\a4e70917374a95f073e8c5af47ad811e
+    projectPath: Library\Artifacts\a4\a4e70917374a95f073e8c5af47ad811e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a60836227a9dfe24cca0e432c4ca3097
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a6\a60836227a9dfe24cca0e432c4ca3097
+    projectPath: Library\Artifacts\a6\a60836227a9dfe24cca0e432c4ca3097
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a755dd093113f468cacb9ca1e4cd75b7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a7\a755dd093113f468cacb9ca1e4cd75b7
+    projectPath: Library\Artifacts\a7\a755dd093113f468cacb9ca1e4cd75b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a973183e3b97d0ee64c78b0a13a3080f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\a9\a973183e3b97d0ee64c78b0a13a3080f
+    projectPath: Library\Artifacts\a9\a973183e3b97d0ee64c78b0a13a3080f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa9a7f57ea26e4c42f7c83bd6a6f913b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\aa\aa9a7f57ea26e4c42f7c83bd6a6f913b
+    projectPath: Library\Artifacts\aa\aa9a7f57ea26e4c42f7c83bd6a6f913b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ac\ac44b55a768697bb9f0bf84c3b218028
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ac\ac44b55a768697bb9f0bf84c3b218028
+    projectPath: Library\Artifacts\ac\ac44b55a768697bb9f0bf84c3b218028
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ac\acf6c830bc53c33302ea379153cbce03
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ac\acf6c830bc53c33302ea379153cbce03
+    projectPath: Library\Artifacts\ac\acf6c830bc53c33302ea379153cbce03
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ad\ad91ebc2e2581f1917d4a578267911c2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ad\ad91ebc2e2581f1917d4a578267911c2
+    projectPath: Library\Artifacts\ad\ad91ebc2e2581f1917d4a578267911c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ad\ad9e487a983a110ee0c53fa6ceebbfb6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ad\ad9e487a983a110ee0c53fa6ceebbfb6
+    projectPath: Library\Artifacts\ad\ad9e487a983a110ee0c53fa6ceebbfb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae6219146f27c79a661b33acc2dcc88b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ae\ae6219146f27c79a661b33acc2dcc88b
+    projectPath: Library\Artifacts\ae\ae6219146f27c79a661b33acc2dcc88b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b06723f0aea981ebec8749ba69df8b33
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b0\b06723f0aea981ebec8749ba69df8b33
+    projectPath: Library\Artifacts\b0\b06723f0aea981ebec8749ba69df8b33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b1\b1a798f3f3c90bd809de75b112dba962
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b1\b1a798f3f3c90bd809de75b112dba962
+    projectPath: Library\Artifacts\b1\b1a798f3f3c90bd809de75b112dba962
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b1\b1fdb582b33aa49bf7c1115232e54031
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b1\b1fdb582b33aa49bf7c1115232e54031
+    projectPath: Library\Artifacts\b1\b1fdb582b33aa49bf7c1115232e54031
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2a2aaea3ee849621a5760081010a34b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b2\b2a2aaea3ee849621a5760081010a34b
+    projectPath: Library\Artifacts\b2\b2a2aaea3ee849621a5760081010a34b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2df091ba0fd6743d1fb95ea9ada7c51
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b2\b2df091ba0fd6743d1fb95ea9ada7c51
+    projectPath: Library\Artifacts\b2\b2df091ba0fd6743d1fb95ea9ada7c51
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b3\b3d66e9e805ac4e3fcb8093ed82476c6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b3\b3d66e9e805ac4e3fcb8093ed82476c6
+    projectPath: Library\Artifacts\b3\b3d66e9e805ac4e3fcb8093ed82476c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b789828d229b725579990bd05bc9c90c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b7\b789828d229b725579990bd05bc9c90c
+    projectPath: Library\Artifacts\b7\b789828d229b725579990bd05bc9c90c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b99d4d9c3d6c77d6a4967139c2f7d166
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b9\b99d4d9c3d6c77d6a4967139c2f7d166
+    projectPath: Library\Artifacts\b9\b99d4d9c3d6c77d6a4967139c2f7d166
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b9ad3347aa255bfb3d6515776cc0b213
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b9\b9ad3347aa255bfb3d6515776cc0b213
+    projectPath: Library\Artifacts\b9\b9ad3347aa255bfb3d6515776cc0b213
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b9\b9aeff4672ac35720a464f8908942f8e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\b9\b9aeff4672ac35720a464f8908942f8e
+    projectPath: Library\Artifacts\b9\b9aeff4672ac35720a464f8908942f8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bccbcfa3bb984e08d778266cc4baacc7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bc\bccbcfa3bb984e08d778266cc4baacc7
+    projectPath: Library\Artifacts\bc\bccbcfa3bb984e08d778266cc4baacc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bcea497f4b111e190a4982c10aab13da
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bc\bcea497f4b111e190a4982c10aab13da
+    projectPath: Library\Artifacts\bc\bcea497f4b111e190a4982c10aab13da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd5ef9d5947aaddc234ca1d58c04b94e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bd\bd5ef9d5947aaddc234ca1d58c04b94e
+    projectPath: Library\Artifacts\bd\bd5ef9d5947aaddc234ca1d58c04b94e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd7c9faf2dcb68bf6d762e0e43371782
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bd\bd7c9faf2dcb68bf6d762e0e43371782
+    projectPath: Library\Artifacts\bd\bd7c9faf2dcb68bf6d762e0e43371782
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bd\bd82df09e6e8d585ab9a05488231758e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bd\bd82df09e6e8d585ab9a05488231758e
+    projectPath: Library\Artifacts\bd\bd82df09e6e8d585ab9a05488231758e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\be96c8f0994201597fe9d61c2d91835b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\be\be96c8f0994201597fe9d61c2d91835b
+    projectPath: Library\Artifacts\be\be96c8f0994201597fe9d61c2d91835b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\beed8aae21f0234335b11d1067de07c2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\be\beed8aae21f0234335b11d1067de07c2
+    projectPath: Library\Artifacts\be\beed8aae21f0234335b11d1067de07c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c067d58f5736ed6fb1c6dd874fe3e54f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c0\c067d58f5736ed6fb1c6dd874fe3e54f
+    projectPath: Library\Artifacts\c0\c067d58f5736ed6fb1c6dd874fe3e54f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c11eab0172fc302484c4bd906dd234aa
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c1\c11eab0172fc302484c4bd906dd234aa
+    projectPath: Library\Artifacts\c1\c11eab0172fc302484c4bd906dd234aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c26861325466a61a990439509488b791
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c2\c26861325466a61a990439509488b791
+    projectPath: Library\Artifacts\c2\c26861325466a61a990439509488b791
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c289fa5823fada148c1c52e7a6881a89
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c2\c289fa5823fada148c1c52e7a6881a89
+    projectPath: Library\Artifacts\c2\c289fa5823fada148c1c52e7a6881a89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c29907ea3a93bc134b4dacad988c4032
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c2\c29907ea3a93bc134b4dacad988c4032
+    projectPath: Library\Artifacts\c2\c29907ea3a93bc134b4dacad988c4032
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c2e946d90291f379f84bd70a2ca047cb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c2\c2e946d90291f379f84bd70a2ca047cb
+    projectPath: Library\Artifacts\c2\c2e946d90291f379f84bd70a2ca047cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c2\c2ecaf773e163c990b55bad2f3f2cb16
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c2\c2ecaf773e163c990b55bad2f3f2cb16
+    projectPath: Library\Artifacts\c2\c2ecaf773e163c990b55bad2f3f2cb16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c30636fed7ad878ccf52201f6422b634
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c3\c30636fed7ad878ccf52201f6422b634
+    projectPath: Library\Artifacts\c3\c30636fed7ad878ccf52201f6422b634
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c34e371e88c65bc9d2b69621cd4771c4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c3\c34e371e88c65bc9d2b69621cd4771c4
+    projectPath: Library\Artifacts\c3\c34e371e88c65bc9d2b69621cd4771c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c3d54f893a04fdab8caf4d2405544690
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c3\c3d54f893a04fdab8caf4d2405544690
+    projectPath: Library\Artifacts\c3\c3d54f893a04fdab8caf4d2405544690
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c4\c43a3659e1534e64806be49b83be341e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c4\c43a3659e1534e64806be49b83be341e
+    projectPath: Library\Artifacts\c4\c43a3659e1534e64806be49b83be341e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c502ad07d1918e42af0559c2392ed1f6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c5\c502ad07d1918e42af0559c2392ed1f6
+    projectPath: Library\Artifacts\c5\c502ad07d1918e42af0559c2392ed1f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c644682fea443ae42b2288a3428fc3fc
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c6\c644682fea443ae42b2288a3428fc3fc
+    projectPath: Library\Artifacts\c6\c644682fea443ae42b2288a3428fc3fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c68d228b1129b30f85e3c8b9f65c449c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c6\c68d228b1129b30f85e3c8b9f65c449c
+    projectPath: Library\Artifacts\c6\c68d228b1129b30f85e3c8b9f65c449c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c69f5a7aaeae210c8f7049e202777706
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c6\c69f5a7aaeae210c8f7049e202777706
+    projectPath: Library\Artifacts\c6\c69f5a7aaeae210c8f7049e202777706
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c7\c7d9ee299058009acf45601d4deff330
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c7\c7d9ee299058009acf45601d4deff330
+    projectPath: Library\Artifacts\c7\c7d9ee299058009acf45601d4deff330
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8e32318d797fd6b2b77911c21359272
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c8\c8e32318d797fd6b2b77911c21359272
+    projectPath: Library\Artifacts\c8\c8e32318d797fd6b2b77911c21359272
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c922756e14be560c68498286316ebb22
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c9\c922756e14be560c68498286316ebb22
+    projectPath: Library\Artifacts\c9\c922756e14be560c68498286316ebb22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c93ed8b426beeeecf60fff57a8f25b1d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c9\c93ed8b426beeeecf60fff57a8f25b1d
+    projectPath: Library\Artifacts\c9\c93ed8b426beeeecf60fff57a8f25b1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca30fb3b064cab4320665789f6f937f3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ca\ca30fb3b064cab4320665789f6f937f3
+    projectPath: Library\Artifacts\ca\ca30fb3b064cab4320665789f6f937f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca338b71f82ad1f74535d591ca13fb4d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ca\ca338b71f82ad1f74535d591ca13fb4d
+    projectPath: Library\Artifacts\ca\ca338b71f82ad1f74535d591ca13fb4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca8ec1d01aab7d0a03e4457ad40f092c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ca\ca8ec1d01aab7d0a03e4457ad40f092c
+    projectPath: Library\Artifacts\ca\ca8ec1d01aab7d0a03e4457ad40f092c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\caf8bba6918d272a3268256c14369bdf
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ca\caf8bba6918d272a3268256c14369bdf
+    projectPath: Library\Artifacts\ca\caf8bba6918d272a3268256c14369bdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\cafb098d3b43757afdd2521ca0f455ec
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ca\cafb098d3b43757afdd2521ca0f455ec
+    projectPath: Library\Artifacts\ca\cafb098d3b43757afdd2521ca0f455ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc58f6e7cb4e71b97d8f93f1d1715ec3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\cc\cc58f6e7cb4e71b97d8f93f1d1715ec3
+    projectPath: Library\Artifacts\cc\cc58f6e7cb4e71b97d8f93f1d1715ec3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cca434c97bc1d4a4567966ebbf9b7887
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\cc\cca434c97bc1d4a4567966ebbf9b7887
+    projectPath: Library\Artifacts\cc\cca434c97bc1d4a4567966ebbf9b7887
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\ccf6e1fab712c16bc8fd9960fe598e89
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\cc\ccf6e1fab712c16bc8fd9960fe598e89
+    projectPath: Library\Artifacts\cc\ccf6e1fab712c16bc8fd9960fe598e89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cdeb17df4794f20882b18cae94945492
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\cd\cdeb17df4794f20882b18cae94945492
+    projectPath: Library\Artifacts\cd\cdeb17df4794f20882b18cae94945492
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ce\ce06e9a7a653ab468b1c88448dc8cdc6
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ce\ce06e9a7a653ab468b1c88448dc8cdc6
+    projectPath: Library\Artifacts\ce\ce06e9a7a653ab468b1c88448dc8cdc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d08988dacef7f3b18cf3131585179ce3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d0\d08988dacef7f3b18cf3131585179ce3
+    projectPath: Library\Artifacts\d0\d08988dacef7f3b18cf3131585179ce3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d11cf86f559e2f9b19e838eeb490d848
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d1\d11cf86f559e2f9b19e838eeb490d848
+    projectPath: Library\Artifacts\d1\d11cf86f559e2f9b19e838eeb490d848
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d19711b6de39b38ed69433ae64fbe424
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d1\d19711b6de39b38ed69433ae64fbe424
+    projectPath: Library\Artifacts\d1\d19711b6de39b38ed69433ae64fbe424
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d3ad4a978af8d3ace90e12de1d6ff2ff
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d3\d3ad4a978af8d3ace90e12de1d6ff2ff
+    projectPath: Library\Artifacts\d3\d3ad4a978af8d3ace90e12de1d6ff2ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d3daf16a3abfea0bc7547af9515de1e2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d3\d3daf16a3abfea0bc7547af9515de1e2
+    projectPath: Library\Artifacts\d3\d3daf16a3abfea0bc7547af9515de1e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d3e46e2734ec6cead5416ba94b45b0f7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d3\d3e46e2734ec6cead5416ba94b45b0f7
+    projectPath: Library\Artifacts\d3\d3e46e2734ec6cead5416ba94b45b0f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d491950f7fe3c0bf7324fca106f644b3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d4\d491950f7fe3c0bf7324fca106f644b3
+    projectPath: Library\Artifacts\d4\d491950f7fe3c0bf7324fca106f644b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4f44d1a49bdbe0f66a29d7c3ab492f0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d4\d4f44d1a49bdbe0f66a29d7c3ab492f0
+    projectPath: Library\Artifacts\d4\d4f44d1a49bdbe0f66a29d7c3ab492f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d5b692e3b3cbe9a886b4f3c7d2312ba1
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d5\d5b692e3b3cbe9a886b4f3c7d2312ba1
+    projectPath: Library\Artifacts\d5\d5b692e3b3cbe9a886b4f3c7d2312ba1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d7ae411f1a7e8b884204e97a6c61d0d5
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d7\d7ae411f1a7e8b884204e97a6c61d0d5
+    projectPath: Library\Artifacts\d7\d7ae411f1a7e8b884204e97a6c61d0d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d7\d7c36b3b117908820550c66b8632c3d3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\d7\d7c36b3b117908820550c66b8632c3d3
+    projectPath: Library\Artifacts\d7\d7c36b3b117908820550c66b8632c3d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\da\da836c0d9cb11a5eee7c39b5aaba1fb2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\da\da836c0d9cb11a5eee7c39b5aaba1fb2
+    projectPath: Library\Artifacts\da\da836c0d9cb11a5eee7c39b5aaba1fb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\da\dac278f98778869acafc44a76d6f9d00
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\da\dac278f98778869acafc44a76d6f9d00
+    projectPath: Library\Artifacts\da\dac278f98778869acafc44a76d6f9d00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\daed89b11bd88ff6258873d0133bfff0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\da\daed89b11bd88ff6258873d0133bfff0
+    projectPath: Library\Artifacts\da\daed89b11bd88ff6258873d0133bfff0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db063a87276ecd0bb6c74b785ddd02bf
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\db\db063a87276ecd0bb6c74b785ddd02bf
+    projectPath: Library\Artifacts\db\db063a87276ecd0bb6c74b785ddd02bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db65aa582562675c1b5451ad29374446
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\db\db65aa582562675c1b5451ad29374446
+    projectPath: Library\Artifacts\db\db65aa582562675c1b5451ad29374446
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc0a75bbb92d1c9f460e8ec864b337f3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\dc\dc0a75bbb92d1c9f460e8ec864b337f3
+    projectPath: Library\Artifacts\dc\dc0a75bbb92d1c9f460e8ec864b337f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc4742c33f28e9118e2757d7a3e3fca9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\dc\dc4742c33f28e9118e2757d7a3e3fca9
+    projectPath: Library\Artifacts\dc\dc4742c33f28e9118e2757d7a3e3fca9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd7bab1a53fe253474f824a8687edc70
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\dd\dd7bab1a53fe253474f824a8687edc70
+    projectPath: Library\Artifacts\dd\dd7bab1a53fe253474f824a8687edc70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\de\de32fa1ecabb261060a0271a67239615
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\de\de32fa1ecabb261060a0271a67239615
+    projectPath: Library\Artifacts\de\de32fa1ecabb261060a0271a67239615
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\de\de36c343107dfcc62942d93df10513a5
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\de\de36c343107dfcc62942d93df10513a5
+    projectPath: Library\Artifacts\de\de36c343107dfcc62942d93df10513a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e012f5b3137a7f2a7f0fc91b2108e1a9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e0\e012f5b3137a7f2a7f0fc91b2108e1a9
+    projectPath: Library\Artifacts\e0\e012f5b3137a7f2a7f0fc91b2108e1a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e03f69b8a36e2b245c4a7bd012f72913
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e0\e03f69b8a36e2b245c4a7bd012f72913
+    projectPath: Library\Artifacts\e0\e03f69b8a36e2b245c4a7bd012f72913
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e06c695f5c14f3d1ab500ecf6a6e2694
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e0\e06c695f5c14f3d1ab500ecf6a6e2694
+    projectPath: Library\Artifacts\e0\e06c695f5c14f3d1ab500ecf6a6e2694
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e06d73253fc989a0ecf7cd525d133962
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e0\e06d73253fc989a0ecf7cd525d133962
+    projectPath: Library\Artifacts\e0\e06d73253fc989a0ecf7cd525d133962
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e23da329c3192f210ae2d66a3268870b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e2\e23da329c3192f210ae2d66a3268870b
+    projectPath: Library\Artifacts\e2\e23da329c3192f210ae2d66a3268870b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e24e3401fd42efa9fabcd713d0aadfb2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e2\e24e3401fd42efa9fabcd713d0aadfb2
+    projectPath: Library\Artifacts\e2\e24e3401fd42efa9fabcd713d0aadfb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e38b43f0bd8761524dadc1875d9ce39e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e3\e38b43f0bd8761524dadc1875d9ce39e
+    projectPath: Library\Artifacts\e3\e38b43f0bd8761524dadc1875d9ce39e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e3c6346eec13c4d771da8cd632c47c88
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e3\e3c6346eec13c4d771da8cd632c47c88
+    projectPath: Library\Artifacts\e3\e3c6346eec13c4d771da8cd632c47c88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e408345d5af97d7e09414e7e0d49842d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e4\e408345d5af97d7e09414e7e0d49842d
+    projectPath: Library\Artifacts\e4\e408345d5af97d7e09414e7e0d49842d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e46aac9b3f4a6ada9e9671a67723be28
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e4\e46aac9b3f4a6ada9e9671a67723be28
+    projectPath: Library\Artifacts\e4\e46aac9b3f4a6ada9e9671a67723be28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e4969b18b79a4468c0790c0e38b16e6e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e4\e4969b18b79a4468c0790c0e38b16e6e
+    projectPath: Library\Artifacts\e4\e4969b18b79a4468c0790c0e38b16e6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e49ebf4ddc08e97104a37086ef748a78
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e4\e49ebf4ddc08e97104a37086ef748a78
+    projectPath: Library\Artifacts\e4\e49ebf4ddc08e97104a37086ef748a78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e5abbe7b1b8165104334657f434d5077
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e5\e5abbe7b1b8165104334657f434d5077
+    projectPath: Library\Artifacts\e5\e5abbe7b1b8165104334657f434d5077
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e6\e614ecea8a0ebf6d31c3972e70fa973b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e6\e614ecea8a0ebf6d31c3972e70fa973b
+    projectPath: Library\Artifacts\e6\e614ecea8a0ebf6d31c3972e70fa973b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e6\e68fdde9d8a21e9e802d7c426bf78215
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e6\e68fdde9d8a21e9e802d7c426bf78215
+    projectPath: Library\Artifacts\e6\e68fdde9d8a21e9e802d7c426bf78215
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e70a09cfc05ea0ab5be059992532846a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e7\e70a09cfc05ea0ab5be059992532846a
+    projectPath: Library\Artifacts\e7\e70a09cfc05ea0ab5be059992532846a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e71542af699a25f7ebb65d0c7e2d6315
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e7\e71542af699a25f7ebb65d0c7e2d6315
+    projectPath: Library\Artifacts\e7\e71542af699a25f7ebb65d0c7e2d6315
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e756b81e831b1b66997902e40c748f14
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e7\e756b81e831b1b66997902e40c748f14
+    projectPath: Library\Artifacts\e7\e756b81e831b1b66997902e40c748f14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e84e058d2b7ff02e14c23b481ed22c8c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\e8\e84e058d2b7ff02e14c23b481ed22c8c
+    projectPath: Library\Artifacts\e8\e84e058d2b7ff02e14c23b481ed22c8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea492f858874fb43b1dc0ae865efbec0
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ea\ea492f858874fb43b1dc0ae865efbec0
+    projectPath: Library\Artifacts\ea\ea492f858874fb43b1dc0ae865efbec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\ea6dc3e08a4fc7a8df66a54ce563f279
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ea\ea6dc3e08a4fc7a8df66a54ce563f279
+    projectPath: Library\Artifacts\ea\ea6dc3e08a4fc7a8df66a54ce563f279
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\eabfbb97e6b89b68d63c681a73456eb7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ea\eabfbb97e6b89b68d63c681a73456eb7
+    projectPath: Library\Artifacts\ea\eabfbb97e6b89b68d63c681a73456eb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ea\eaee5bf783dc2da0543d23c03e9132eb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ea\eaee5bf783dc2da0543d23c03e9132eb
+    projectPath: Library\Artifacts\ea\eaee5bf783dc2da0543d23c03e9132eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\ebb831f9eda470e2409038f2cb2574c4
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\eb\ebb831f9eda470e2409038f2cb2574c4
+    projectPath: Library\Artifacts\eb\ebb831f9eda470e2409038f2cb2574c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ec\ec299658ee7f87f5734e6e9600c43a5b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ec\ec299658ee7f87f5734e6e9600c43a5b
+    projectPath: Library\Artifacts\ec\ec299658ee7f87f5734e6e9600c43a5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee15264b97d6b502be11b7e8d63da6c7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ee\ee15264b97d6b502be11b7e8d63da6c7
+    projectPath: Library\Artifacts\ee\ee15264b97d6b502be11b7e8d63da6c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee95c68da9756f56989e54e35836e573
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ee\ee95c68da9756f56989e54e35836e573
+    projectPath: Library\Artifacts\ee\ee95c68da9756f56989e54e35836e573
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef38487cc573b6194190a9d37ad85dc3
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ef\ef38487cc573b6194190a9d37ad85dc3
+    projectPath: Library\Artifacts\ef\ef38487cc573b6194190a9d37ad85dc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef5c38f449e6fb2497c289952ec96270
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ef\ef5c38f449e6fb2497c289952ec96270
+    projectPath: Library\Artifacts\ef\ef5c38f449e6fb2497c289952ec96270
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f0\f0661ad83e3d376f3b23b41e8e81636b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f0\f0661ad83e3d376f3b23b41e8e81636b
+    projectPath: Library\Artifacts\f0\f0661ad83e3d376f3b23b41e8e81636b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f114a4d5f740c35ce939f0c8e3f08b62
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f1\f114a4d5f740c35ce939f0c8e3f08b62
+    projectPath: Library\Artifacts\f1\f114a4d5f740c35ce939f0c8e3f08b62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f141175067b83bfe472c3585b9ba64a5
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f1\f141175067b83bfe472c3585b9ba64a5
+    projectPath: Library\Artifacts\f1\f141175067b83bfe472c3585b9ba64a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f23731383a2b2c62e726f8e230a399f2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f2\f23731383a2b2c62e726f8e230a399f2
+    projectPath: Library\Artifacts\f2\f23731383a2b2c62e726f8e230a399f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f277b50581f63204c040448db99f0bd2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f2\f277b50581f63204c040448db99f0bd2
+    projectPath: Library\Artifacts\f2\f277b50581f63204c040448db99f0bd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f39c165473ede3fb912a2d3f6b21d3ee
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f3\f39c165473ede3fb912a2d3f6b21d3ee
+    projectPath: Library\Artifacts\f3\f39c165473ede3fb912a2d3f6b21d3ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f41101c94e6fd56896b08243641b180f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f4\f41101c94e6fd56896b08243641b180f
+    projectPath: Library\Artifacts\f4\f41101c94e6fd56896b08243641b180f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f45e6293d709496eaf3a42818e1de18b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f4\f45e6293d709496eaf3a42818e1de18b
+    projectPath: Library\Artifacts\f4\f45e6293d709496eaf3a42818e1de18b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f4af115b9c0149014292aabb9de5f99b
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f4\f4af115b9c0149014292aabb9de5f99b
+    projectPath: Library\Artifacts\f4\f4af115b9c0149014292aabb9de5f99b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f5\f544e1ed2a871ec38ac82307dd7bbf7a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f5\f544e1ed2a871ec38ac82307dd7bbf7a
+    projectPath: Library\Artifacts\f5\f544e1ed2a871ec38ac82307dd7bbf7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f5cea002dfd20d09c6e12bc5cc252fea
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f5\f5cea002dfd20d09c6e12bc5cc252fea
+    projectPath: Library\Artifacts\f5\f5cea002dfd20d09c6e12bc5cc252fea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f643cfa57b238b400cc35bd48b9df150
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f6\f643cfa57b238b400cc35bd48b9df150
+    projectPath: Library\Artifacts\f6\f643cfa57b238b400cc35bd48b9df150
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f73ec11d06adeda4bbd393d497940029
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f7\f73ec11d06adeda4bbd393d497940029
+    projectPath: Library\Artifacts\f7\f73ec11d06adeda4bbd393d497940029
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f928e1782eead055c415dc2026c18d65
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f9\f928e1782eead055c415dc2026c18d65
+    projectPath: Library\Artifacts\f9\f928e1782eead055c415dc2026c18d65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f934ad3ec259e442045763fa27043bf7
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f9\f934ad3ec259e442045763fa27043bf7
+    projectPath: Library\Artifacts\f9\f934ad3ec259e442045763fa27043bf7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f94db766e3079874394ea8bba219271c
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f9\f94db766e3079874394ea8bba219271c
+    projectPath: Library\Artifacts\f9\f94db766e3079874394ea8bba219271c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f9cc8ebeec67f7eaf5a305fd3a0688fc
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f9\f9cc8ebeec67f7eaf5a305fd3a0688fc
+    projectPath: Library\Artifacts\f9\f9cc8ebeec67f7eaf5a305fd3a0688fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fb\fb116abe6d1cbe2e83f45b96587f6b1d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\fb\fb116abe6d1cbe2e83f45b96587f6b1d
+    projectPath: Library\Artifacts\fb\fb116abe6d1cbe2e83f45b96587f6b1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fc\fc17c85349ce4a9f8af050ed4f47cc92
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\fc\fc17c85349ce4a9f8af050ed4f47cc92
+    projectPath: Library\Artifacts\fc\fc17c85349ce4a9f8af050ed4f47cc92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fc\fc19badadc3c50ccfa048b7e6972c77a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\fc\fc19badadc3c50ccfa048b7e6972c77a
+    projectPath: Library\Artifacts\fc\fc19badadc3c50ccfa048b7e6972c77a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fc\fc46f64298faab343e8da1753bdd90db
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\fc\fc46f64298faab343e8da1753bdd90db
+    projectPath: Library\Artifacts\fc\fc46f64298faab343e8da1753bdd90db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fc\fc570894b0603c74efc728829668702d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\fc\fc570894b0603c74efc728829668702d
+    projectPath: Library\Artifacts\fc\fc570894b0603c74efc728829668702d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd926fe45d17ed0bdf435cdee8561c53
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\fd\fd926fe45d17ed0bdf435cdee8561c53
+    projectPath: Library\Artifacts\fd\fd926fe45d17ed0bdf435cdee8561c53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffa2276828b8e2e8c2222df6800d1c06
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ff\ffa2276828b8e2e8c2222df6800d1c06
+    projectPath: Library\Artifacts\ff\ffa2276828b8e2e8c2222df6800d1c06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffd618cc8bc523a875d4cb00e2832fb9
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ff\ffd618cc8bc523a875d4cb00e2832fb9
+    projectPath: Library\Artifacts\ff\ffd618cc8bc523a875d4cb00e2832fb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PackageCache\.DS_Store
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\PackageCache\.DS_Store
+    projectPath: Library\PackageCache\.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PsdPlugin.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\PsdPlugin.pdb
+    projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Mathematics.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\01f31fcdc2c9717a6d6388d3b051b0fa.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\0\01f31fcdc2c9717a6d6388d3b051b0fa.bin
+    projectPath: Library\ShaderCache\0\01f31fcdc2c9717a6d6388d3b051b0fa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\028b8ab38de524c54564aed1ae246ab4.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\0\028b8ab38de524c54564aed1ae246ab4.bin
+    projectPath: Library\ShaderCache\0\028b8ab38de524c54564aed1ae246ab4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\066ea4206ba8d55c5526ead222e82dde.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\0\066ea4206ba8d55c5526ead222e82dde.bin
+    projectPath: Library\ShaderCache\0\066ea4206ba8d55c5526ead222e82dde.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1ee1b095e248c103f7fb6296100af122.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\1\1ee1b095e248c103f7fb6296100af122.bin
+    projectPath: Library\ShaderCache\1\1ee1b095e248c103f7fb6296100af122.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2300ee99e1e8e5919ca24a9c6a71d9f4.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\2\2300ee99e1e8e5919ca24a9c6a71d9f4.bin
+    projectPath: Library\ShaderCache\2\2300ee99e1e8e5919ca24a9c6a71d9f4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\26fa8215186ee92ed78c44be81aa7eba.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\2\26fa8215186ee92ed78c44be81aa7eba.bin
+    projectPath: Library\ShaderCache\2\26fa8215186ee92ed78c44be81aa7eba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3b8e2fe7cf0d13302b66bb11f2ad8482.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\3\3b8e2fe7cf0d13302b66bb11f2ad8482.bin
+    projectPath: Library\ShaderCache\3\3b8e2fe7cf0d13302b66bb11f2ad8482.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3c89a3a8f9822a1c7f272ee914a6074e.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\3\3c89a3a8f9822a1c7f272ee914a6074e.bin
+    projectPath: Library\ShaderCache\3\3c89a3a8f9822a1c7f272ee914a6074e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4773a1bfad62a4281e68ae0daff6e1a1.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\4\4773a1bfad62a4281e68ae0daff6e1a1.bin
+    projectPath: Library\ShaderCache\4\4773a1bfad62a4281e68ae0daff6e1a1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4b4cc390eeb86bb3b02c14625825151f.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\4\4b4cc390eeb86bb3b02c14625825151f.bin
+    projectPath: Library\ShaderCache\4\4b4cc390eeb86bb3b02c14625825151f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4e1651cda00c3765da7e972a7a49fd82.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\4\4e1651cda00c3765da7e972a7a49fd82.bin
+    projectPath: Library\ShaderCache\4\4e1651cda00c3765da7e972a7a49fd82.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\50baf297eb08021da073176aa5ffb3a0.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\5\50baf297eb08021da073176aa5ffb3a0.bin
+    projectPath: Library\ShaderCache\5\50baf297eb08021da073176aa5ffb3a0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\50ddddc772b42dee2c85d8cc203462bc.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\5\50ddddc772b42dee2c85d8cc203462bc.bin
+    projectPath: Library\ShaderCache\5\50ddddc772b42dee2c85d8cc203462bc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7005c9fc1d5f191ecdeb9fc8d8281dfb.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\7\7005c9fc1d5f191ecdeb9fc8d8281dfb.bin
+    projectPath: Library\ShaderCache\7\7005c9fc1d5f191ecdeb9fc8d8281dfb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\703c8454cd54b101a694209ffac0f2d6.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\7\703c8454cd54b101a694209ffac0f2d6.bin
+    projectPath: Library\ShaderCache\7\703c8454cd54b101a694209ffac0f2d6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\77cadd7a2b07b24c280d9e4dcd26bdda.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\7\77cadd7a2b07b24c280d9e4dcd26bdda.bin
+    projectPath: Library\ShaderCache\7\77cadd7a2b07b24c280d9e4dcd26bdda.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\89a66c885cb65ddd1b461684f9d4bf73.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\8\89a66c885cb65ddd1b461684f9d4bf73.bin
+    projectPath: Library\ShaderCache\8\89a66c885cb65ddd1b461684f9d4bf73.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8f3574792a4b75e43106814748db70a0.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\8\8f3574792a4b75e43106814748db70a0.bin
+    projectPath: Library\ShaderCache\8\8f3574792a4b75e43106814748db70a0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a644b580189c85125cc6f8419ceac737.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\a\a644b580189c85125cc6f8419ceac737.bin
+    projectPath: Library\ShaderCache\a\a644b580189c85125cc6f8419ceac737.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a7a9141ce96756edaba75bcf65419739.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\a\a7a9141ce96756edaba75bcf65419739.bin
+    projectPath: Library\ShaderCache\a\a7a9141ce96756edaba75bcf65419739.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a7db2fbb118984d9faa41a15ab7cf2e0.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\a\a7db2fbb118984d9faa41a15ab7cf2e0.bin
+    projectPath: Library\ShaderCache\a\a7db2fbb118984d9faa41a15ab7cf2e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b808cf007c610faafed9909e1bd95bf5.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\b\b808cf007c610faafed9909e1bd95bf5.bin
+    projectPath: Library\ShaderCache\b\b808cf007c610faafed9909e1bd95bf5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c151ea9b0276880847a93ac78affb1dd.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\c\c151ea9b0276880847a93ac78affb1dd.bin
+    projectPath: Library\ShaderCache\c\c151ea9b0276880847a93ac78affb1dd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c1d69538d410d6b81ce2219408bf8ca6.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\c\c1d69538d410d6b81ce2219408bf8ca6.bin
+    projectPath: Library\ShaderCache\c\c1d69538d410d6b81ce2219408bf8ca6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c5766900af2fe77f970ac50d70e7c584.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\c\c5766900af2fe77f970ac50d70e7c584.bin
+    projectPath: Library\ShaderCache\c\c5766900af2fe77f970ac50d70e7c584.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ca74707c0fe6d0c755679c8227735208.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\c\ca74707c0fe6d0c755679c8227735208.bin
+    projectPath: Library\ShaderCache\c\ca74707c0fe6d0c755679c8227735208.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d5db7678f155a2cc38b768f9ef0c5a5b.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\d\d5db7678f155a2cc38b768f9ef0c5a5b.bin
+    projectPath: Library\ShaderCache\d\d5db7678f155a2cc38b768f9ef0c5a5b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d62fcdc34623562b1cefeab9784e6672.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\d\d62fcdc34623562b1cefeab9784e6672.bin
+    projectPath: Library\ShaderCache\d\d62fcdc34623562b1cefeab9784e6672.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e05f7c6024e58a1d245e97d5bf41ef61.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\e\e05f7c6024e58a1d245e97d5bf41ef61.bin
+    projectPath: Library\ShaderCache\e\e05f7c6024e58a1d245e97d5bf41ef61.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e1ab8118a8043726008369a6cd77f3e0.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\e\e1ab8118a8043726008369a6cd77f3e0.bin
+    projectPath: Library\ShaderCache\e\e1ab8118a8043726008369a6cd77f3e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f691d926b2cfef403b8d044ed59539c9.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\f\f691d926b2cfef403b8d044ed59539c9.bin
+    projectPath: Library\ShaderCache\f\f691d926b2cfef403b8d044ed59539c9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fd83399fbe7277ee21dbdd60033d8285.bin
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ShaderCache\f\fd83399fbe7277ee21dbdd60033d8285.bin
+    projectPath: Library\ShaderCache\f\fd83399fbe7277ee21dbdd60033d8285.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SourceAssetDB
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-07d7b1da28bc11247a2fe9fe9d8f332d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-07d7b1da28bc11247a2fe9fe9d8f332d
+    projectPath: Temp\UnityTempFile-07d7b1da28bc11247a2fe9fe9d8f332d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-106425f2ca97c3548b8870b8a7e26444
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-106425f2ca97c3548b8870b8a7e26444
+    projectPath: Temp\UnityTempFile-106425f2ca97c3548b8870b8a7e26444
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-106fd76bd3650ee43b96c81fcb8a7d06
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-106fd76bd3650ee43b96c81fcb8a7d06
+    projectPath: Temp\UnityTempFile-106fd76bd3650ee43b96c81fcb8a7d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1917ee31043283844af65ab0303ec755
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-1917ee31043283844af65ab0303ec755
+    projectPath: Temp\UnityTempFile-1917ee31043283844af65ab0303ec755
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1f7852528d0296146b3c5390fcc39d0f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-1f7852528d0296146b3c5390fcc39d0f
+    projectPath: Temp\UnityTempFile-1f7852528d0296146b3c5390fcc39d0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-390d21b072783be43841f92a6940f65a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-390d21b072783be43841f92a6940f65a
+    projectPath: Temp\UnityTempFile-390d21b072783be43841f92a6940f65a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3caf9b835121b3845b5a71309392a2ef
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-3caf9b835121b3845b5a71309392a2ef
+    projectPath: Temp\UnityTempFile-3caf9b835121b3845b5a71309392a2ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3d41d02b7500be64bb7be7f6bfb46021
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-3d41d02b7500be64bb7be7f6bfb46021
+    projectPath: Temp\UnityTempFile-3d41d02b7500be64bb7be7f6bfb46021
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3e1fb9b8e88f5884e9a2b57d9ca82cda
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-3e1fb9b8e88f5884e9a2b57d9ca82cda
+    projectPath: Temp\UnityTempFile-3e1fb9b8e88f5884e9a2b57d9ca82cda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4a5995e8a31937542ba3c6152aac5b0d
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-4a5995e8a31937542ba3c6152aac5b0d
+    projectPath: Temp\UnityTempFile-4a5995e8a31937542ba3c6152aac5b0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4c2a072c00714f54e800ff2134d51e47
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-4c2a072c00714f54e800ff2134d51e47
+    projectPath: Temp\UnityTempFile-4c2a072c00714f54e800ff2134d51e47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5339e68e2e010d44f803486a231a7f81
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-5339e68e2e010d44f803486a231a7f81
+    projectPath: Temp\UnityTempFile-5339e68e2e010d44f803486a231a7f81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-56040c828581f5d4fac6719e510119ce
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-56040c828581f5d4fac6719e510119ce
+    projectPath: Temp\UnityTempFile-56040c828581f5d4fac6719e510119ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5def23e9fa17bf64b970e917b8731047
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-5def23e9fa17bf64b970e917b8731047
+    projectPath: Temp\UnityTempFile-5def23e9fa17bf64b970e917b8731047
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-711dbabd8e620c1418bb574fe9795e28
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-711dbabd8e620c1418bb574fe9795e28
+    projectPath: Temp\UnityTempFile-711dbabd8e620c1418bb574fe9795e28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7812fa86fde3b114995cc568b9d82795
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-7812fa86fde3b114995cc568b9d82795
+    projectPath: Temp\UnityTempFile-7812fa86fde3b114995cc568b9d82795
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-97597ef29201933499f4437f6b01f8d8
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-97597ef29201933499f4437f6b01f8d8
+    projectPath: Temp\UnityTempFile-97597ef29201933499f4437f6b01f8d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9dd89dec1cab4b54b9336a60cd962de1
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-9dd89dec1cab4b54b9336a60cd962de1
+    projectPath: Temp\UnityTempFile-9dd89dec1cab4b54b9336a60cd962de1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9ee3da2ca3c65ef4ea618e44bf3c909f
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-9ee3da2ca3c65ef4ea618e44bf3c909f
+    projectPath: Temp\UnityTempFile-9ee3da2ca3c65ef4ea618e44bf3c909f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a3d4937dfbafbe04982f62267d31ac2a
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-a3d4937dfbafbe04982f62267d31ac2a
+    projectPath: Temp\UnityTempFile-a3d4937dfbafbe04982f62267d31ac2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a3d8fae6a8f749f4091266bc48c41ce2
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-a3d8fae6a8f749f4091266bc48c41ce2
+    projectPath: Temp\UnityTempFile-a3d8fae6a8f749f4091266bc48c41ce2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a6ff271ef1656164bb3bd20c161fb740
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-a6ff271ef1656164bb3bd20c161fb740
+    projectPath: Temp\UnityTempFile-a6ff271ef1656164bb3bd20c161fb740
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-afaa9400f29bf4d4992326e1550a38af
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-afaa9400f29bf4d4992326e1550a38af
+    projectPath: Temp\UnityTempFile-afaa9400f29bf4d4992326e1550a38af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b0e38e8eb7a7806488314de90d8b1882
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-b0e38e8eb7a7806488314de90d8b1882
+    projectPath: Temp\UnityTempFile-b0e38e8eb7a7806488314de90d8b1882
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b6b452b2ead5a8049ae2015899f0c844
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-b6b452b2ead5a8049ae2015899f0c844
+    projectPath: Temp\UnityTempFile-b6b452b2ead5a8049ae2015899f0c844
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c33116ec7fb69574195175b5ed3ede64
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-c33116ec7fb69574195175b5ed3ede64
+    projectPath: Temp\UnityTempFile-c33116ec7fb69574195175b5ed3ede64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c63ed9ec1a0a6944786055b90881e269
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-c63ed9ec1a0a6944786055b90881e269
+    projectPath: Temp\UnityTempFile-c63ed9ec1a0a6944786055b90881e269
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-df218dba9942c014787a9868f47b4969
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-df218dba9942c014787a9868f47b4969
+    projectPath: Temp\UnityTempFile-df218dba9942c014787a9868f47b4969
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e914923d1e5d8654cb3b87b0f8c0455e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-e914923d1e5d8654cb3b87b0f8c0455e
+    projectPath: Temp\UnityTempFile-e914923d1e5d8654cb3b87b0f8c0455e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ee02043a47de2e942b385ff5e9d3be38
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-ee02043a47de2e942b385ff5e9d3be38
+    projectPath: Temp\UnityTempFile-ee02043a47de2e942b385ff5e9d3be38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fe0ae5d7c71f6064ba90ae27d1480686
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-fe0ae5d7c71f6064ba90ae27d1480686
+    projectPath: Temp\UnityTempFile-fe0ae5d7c71f6064ba90ae27d1480686
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
