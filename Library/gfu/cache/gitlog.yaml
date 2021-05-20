@@ -13,9 +13,201 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-19T23:41:26.317+02:00
-  initializedAtString: 2021-05-19T22:05:24.385+02:00
+  lastUpdatedAtString: 2021-05-20T11:12:21.274+02:00
+  initializedAtString: 2021-05-20T11:12:20.459+02:00
   log:
+  - commitID: b630e7ab8dc0c11135626926813d00b5ab564411
+    mergeA: 
+    mergeB: 
+    authorName: Jeanne
+    authorEmail: jeanne@perrin.me
+    commitEmail: jeanne@perrin.me
+    commitName: Jeanne
+    summary: Geometric bug
+    description: 
+    timeString: 2021-05-20T00:07:15.000+02:00
+    commitTimeString: 2021-05-20T00:07:15.000+02:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\RandomManager.cs
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\RandomManager.cs
+      projectPath: Assets\Scripts\RandomManager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SettingsMenu.cs
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\SettingsMenu.cs
+      projectPath: Assets\Scripts\SettingsMenu.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Transformation.cs
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\Transformation.cs
+      projectPath: Assets\Scripts\Transformation.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\WiltCount.cs
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\WiltCount.cs
+      projectPath: Assets\Scripts\WiltCount.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\WiltCount.cs.meta
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\WiltCount.cs.meta
+      projectPath: Assets\Scripts\WiltCount.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\12\1263eb772b4b3bee7079739a2830f023
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\12\1263eb772b4b3bee7079739a2830f023
+      projectPath: Library\Artifacts\12\1263eb772b4b3bee7079739a2830f023
+      originalPath: Library\Artifacts\aa\aaff4b7f79fa03ed1ff3184c728fa710
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20092a081548823713dd86a0ab588a37
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\20\20092a081548823713dd86a0ab588a37
+      projectPath: Library\Artifacts\20\20092a081548823713dd86a0ab588a37
+      originalPath: Library\Artifacts\26\26859196594eb38354349ab955dedd81
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\2e\2e8367d0af8c9fa49ee4ad1ed839a25d
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2e\2e8367d0af8c9fa49ee4ad1ed839a25d
+      projectPath: Library\Artifacts\2e\2e8367d0af8c9fa49ee4ad1ed839a25d
+      originalPath: Library\Artifacts\0e\0ef600e0722aa726bfa3d11f4afa41c1
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3f\3faa54eb62fa59f2dfebba87006e982e
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\3f\3faa54eb62fa59f2dfebba87006e982e
+      projectPath: Library\Artifacts\3f\3faa54eb62fa59f2dfebba87006e982e
+      originalPath: Library\Artifacts\ff\ff2f81fc176652166ebb49ff03e4fcd1
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\4e\4e5cfc34fb5453559dfed475fd2d07c1
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4e\4e5cfc34fb5453559dfed475fd2d07c1
+      projectPath: Library\Artifacts\4e\4e5cfc34fb5453559dfed475fd2d07c1
+      originalPath: Library\Artifacts\72\7210501eff26bbe3563d11b35a203970
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\77\778935797e222d42434b36b6ce551db0
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\77\778935797e222d42434b36b6ce551db0
+      projectPath: Library\Artifacts\77\778935797e222d42434b36b6ce551db0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\9e\9e9aa156ae8504f7174e80de413e69ed
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9e\9e9aa156ae8504f7174e80de413e69ed
+      projectPath: Library\Artifacts\9e\9e9aa156ae8504f7174e80de413e69ed
+      originalPath: Library\Artifacts\af\af09da5c733b701d6434e49c157f8f40
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\bb\bb10cf6f0e64362e180e88f5b8367409
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bb\bb10cf6f0e64362e180e88f5b8367409
+      projectPath: Library\Artifacts\bb\bb10cf6f0e64362e180e88f5b8367409
+      originalPath: Library\Artifacts\2b\2b0d3317ee71003eea32203b59d8c697
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\bd\bd2eb00e302406aa2cf2b1cdb60bd411
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bd\bd2eb00e302406aa2cf2b1cdb60bd411
+      projectPath: Library\Artifacts\bd\bd2eb00e302406aa2cf2b1cdb60bd411
+      originalPath: Library\Artifacts\c4\c4afd90254f6e3b0d7184afc977d8ad9
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\cb\cbeab0040535fac448f0623307387214
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\cb\cbeab0040535fac448f0623307387214
+      projectPath: Library\Artifacts\cb\cbeab0040535fac448f0623307387214
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f4\f4981ba9c3e9a244556f41876fe313d9
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f4\f4981ba9c3e9a244556f41876fe313d9
+      projectPath: Library\Artifacts\f4\f4981ba9c3e9a244556f41876fe313d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d69a67-mainStage.json
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\StateCache\SceneView\d69a67-mainStage.json
+      projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b38e229abd9c0f3522ce44a4cb2a46efdf9f4275
     mergeA: 
     mergeB: 

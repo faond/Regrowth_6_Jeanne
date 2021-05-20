@@ -13,24 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-19T23:59:24.764+02:00
-  initializedAtString: 2021-05-19T23:56:27.559+02:00
+  lastUpdatedAtString: 2021-05-20T11:14:03.520+02:00
+  initializedAtString: 2021-05-20T11:14:03.520+02:00
   entries:
-  - path: Assets\Scenes\SampleScene.unity
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scripts\RandomManager.cs
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\RandomManager.cs
     projectPath: Assets\Scripts\RandomManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\SettingsMenu.cs
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\SettingsMenu.cs
-    projectPath: Assets\Scripts\SettingsMenu.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,57 +28,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\WiltCount.cs
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\WiltCount.cs
-    projectPath: Assets\Scripts\WiltCount.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\WiltCount.cs.meta
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Assets\Scripts\WiltCount.cs.meta
-    projectPath: Assets\Scripts\WiltCount.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\0e\0ef600e0722aa726bfa3d11f4afa41c1
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\0e\0ef600e0722aa726bfa3d11f4afa41c1
-    projectPath: Library\Artifacts\0e\0ef600e0722aa726bfa3d11f4afa41c1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\12\1263eb772b4b3bee7079739a2830f023
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\12\1263eb772b4b3bee7079739a2830f023
     projectPath: Library\Artifacts\12\1263eb772b4b3bee7079739a2830f023
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\20\20092a081548823713dd86a0ab588a37
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\20\20092a081548823713dd86a0ab588a37
     projectPath: Library\Artifacts\20\20092a081548823713dd86a0ab588a37
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\26\26859196594eb38354349ab955dedd81
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\26\26859196594eb38354349ab955dedd81
-    projectPath: Library\Artifacts\26\26859196594eb38354349ab955dedd81
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\2b\2b0d3317ee71003eea32203b59d8c697
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2b\2b0d3317ee71003eea32203b59d8c697
-    projectPath: Library\Artifacts\2b\2b0d3317ee71003eea32203b59d8c697
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2e\2e8367d0af8c9fa49ee4ad1ed839a25d
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\2e\2e8367d0af8c9fa49ee4ad1ed839a25d
-    projectPath: Library\Artifacts\2e\2e8367d0af8c9fa49ee4ad1ed839a25d
+  - path: Library\Artifacts\22\22312866e095829226b3275e50b3a11e
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\22\22312866e095829226b3275e50b3a11e
+    projectPath: Library\Artifacts\22\22312866e095829226b3275e50b3a11e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -98,41 +56,23 @@ MonoBehaviour:
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\3f\3faa54eb62fa59f2dfebba87006e982e
     projectPath: Library\Artifacts\3f\3faa54eb62fa59f2dfebba87006e982e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\4e\4e5cfc34fb5453559dfed475fd2d07c1
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\4e\4e5cfc34fb5453559dfed475fd2d07c1
     projectPath: Library\Artifacts\4e\4e5cfc34fb5453559dfed475fd2d07c1
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\50\50923f021cd4f4f0b579c725bce58a86
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\50\50923f021cd4f4f0b579c725bce58a86
+    projectPath: Library\Artifacts\50\50923f021cd4f4f0b579c725bce58a86
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\72\7210501eff26bbe3563d11b35a203970
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\72\7210501eff26bbe3563d11b35a203970
-    projectPath: Library\Artifacts\72\7210501eff26bbe3563d11b35a203970
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\77\778935797e222d42434b36b6ce551db0
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\77\778935797e222d42434b36b6ce551db0
-    projectPath: Library\Artifacts\77\778935797e222d42434b36b6ce551db0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\Artifacts\9e\9e9aa156ae8504f7174e80de413e69ed
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\9e\9e9aa156ae8504f7174e80de413e69ed
     projectPath: Library\Artifacts\9e\9e9aa156ae8504f7174e80de413e69ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\aa\aaff4b7f79fa03ed1ff3184c728fa710
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\aa\aaff4b7f79fa03ed1ff3184c728fa710
-    projectPath: Library\Artifacts\aa\aaff4b7f79fa03ed1ff3184c728fa710
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\af\af09da5c733b701d6434e49c157f8f40
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\af\af09da5c733b701d6434e49c157f8f40
-    projectPath: Library\Artifacts\af\af09da5c733b701d6434e49c157f8f40
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -140,17 +80,11 @@ MonoBehaviour:
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bb\bb10cf6f0e64362e180e88f5b8367409
     projectPath: Library\Artifacts\bb\bb10cf6f0e64362e180e88f5b8367409
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\bd\bd2eb00e302406aa2cf2b1cdb60bd411
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\bd\bd2eb00e302406aa2cf2b1cdb60bd411
     projectPath: Library\Artifacts\bd\bd2eb00e302406aa2cf2b1cdb60bd411
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c4\c4afd90254f6e3b0d7184afc977d8ad9
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\c4\c4afd90254f6e3b0d7184afc977d8ad9
-    projectPath: Library\Artifacts\c4\c4afd90254f6e3b0d7184afc977d8ad9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -158,17 +92,11 @@ MonoBehaviour:
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\cb\cbeab0040535fac448f0623307387214
     projectPath: Library\Artifacts\cb\cbeab0040535fac448f0623307387214
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\f4\f4981ba9c3e9a244556f41876fe313d9
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\f4\f4981ba9c3e9a244556f41876fe313d9
     projectPath: Library\Artifacts\f4\f4981ba9c3e9a244556f41876fe313d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ff\ff2f81fc176652166ebb49ff03e4fcd1
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\Artifacts\ff\ff2f81fc176652166ebb49ff03e4fcd1
-    projectPath: Library\Artifacts\ff\ff2f81fc176652166ebb49ff03e4fcd1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -220,6 +148,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -232,15 +166,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SourceAssetDB
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\SourceAssetDB
-    projectPath: Library\SourceAssetDB
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\StateCache\Hierarchy\46b7a0-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+  - path: Library\SourceAssetDB
+    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -250,51 +184,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-00e393ec1b133ca46a373c9e99e765f2
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-00e393ec1b133ca46a373c9e99e765f2
-    projectPath: Temp\UnityTempFile-00e393ec1b133ca46a373c9e99e765f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4de331cc38cac124da60cd3317ae826e
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-4de331cc38cac124da60cd3317ae826e
-    projectPath: Temp\UnityTempFile-4de331cc38cac124da60cd3317ae826e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-807f21a645ce59749a69c9cec4ad5539
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-807f21a645ce59749a69c9cec4ad5539
-    projectPath: Temp\UnityTempFile-807f21a645ce59749a69c9cec4ad5539
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8d8d706d75fa7ca47846af77dc967219
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-8d8d706d75fa7ca47846af77dc967219
-    projectPath: Temp\UnityTempFile-8d8d706d75fa7ca47846af77dc967219
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9a60c05b414fca344b0149e182425387
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-9a60c05b414fca344b0149e182425387
-    projectPath: Temp\UnityTempFile-9a60c05b414fca344b0149e182425387
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a9244c97933f6d84cb3f6a24a6a596a1
-    fullPath: D:\users\jeanne\Bureau\IMAC\S4\Maths\PROJET\Regrowth_6\Temp\UnityTempFile-a9244c97933f6d84cb3f6a24a6a596a1
-    projectPath: Temp\UnityTempFile-a9244c97933f6d84cb3f6a24a6a596a1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

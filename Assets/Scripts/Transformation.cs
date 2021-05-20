@@ -52,10 +52,7 @@ public class Transformation : MonoBehaviour
         gameObject.tag = "Bloom";
         int rand = RandomManager.instance.Bernoulli(RandomManager.instance.difficulty);
         if( rand == 1 ){
-          int timer = RandomManager.instance.Geometric(0.2f);
-
-          Debug.Log("Wilt timer : " + timer);
-          timer = 5;
+          timer = RandomManager.instance.Geometric(RandomManager.instance.difficulty)*2 + 7;
           timerIsRunning = true;
         }
       }

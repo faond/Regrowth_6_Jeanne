@@ -32,8 +32,7 @@ public class RandomManager : MonoBehaviour
     }
 
     public int Bernoulli(float p){  
-        var rand = new System.Random();      
-        float u = (float)rand.NextDouble();
+        float u = Random.Range(0.0f,1.0f);
         if (u <= p) return 1; // P( X = 1 ) = p
         return 0; // P( X = 0 ) = 1 - p
     }
@@ -61,8 +60,7 @@ public class RandomManager : MonoBehaviour
 
     public int Geometric(float p){
         int count = 0;
-        while(Bernoulli(p) != 1){count ++;}
-        Debug.Log("GEOMETRIC : " + count);
+        while(Bernoulli(p) != 1) count ++;
         return count;
     }
 }
